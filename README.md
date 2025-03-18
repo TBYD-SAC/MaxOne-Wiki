@@ -26,22 +26,24 @@ For a full list, check out the [MaxOne-Wiki](https://github.com/TBYD-SAC/MaxOne-
 ---
 
 ## 🔹 Licensing & Access
-MaxOneCloud follows a controlled access model. To prevent **unauthorized use, BigTech control, and patent claims**, access to the implementation framework requires verification.
+MaxOne Systems operate under the **Take Back Your Data (TBYD) License v2.2**, ensuring:
+✔️ **No Patents, No BigTech Control** – Prevents monopolization.
+✔️ **Legal Protection for Licensees** – Protects against lawsuits & corporate interference.
+✔️ **Decentralized & Anonymous Access** – No central entity controls the technology.
+✔️ **Mandatory Compliance** – Any violation results in license termination & legal actions.
 
-📌 **How to Access MaxOneCloud:**
+📄 **Read the Full License:** [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)
+
+🚨 **Access Requirements:**
 1. Accept the **TBYD License v2.2**.
-2. Request a **Unique Payment Key** to prevent unauthorized distribution.
-3. Complete the **One-Time Legal Protection Fee (€900 in Ethereum)**.
-4. Receive access to **full documentation & private development resources**.
+2. Request a **Unique Payment Key** (prevents unauthorized distribution).
+3. Pay the **One-Time Legal Protection Fee (€900 in Ethereum)**.
+4. Gain access to the **full documentation & private development resources**.
 
-📄 **License details:** [MaxOne License](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)
-
-🚨 **Why the €900 fee?**
-✔️ Protects operators from legal attacks & monopolization.  
-✔️ Ensures sovereignty & independence from BigTech control.  
-✔️ Establishes a legally binding framework for all users.  
-
-🔐 **No entity—including BigTech—can take control of MaxOneCloud.**
+🔐 **Why is the €900 fee necessary?**
+✔️ **Prevents BigTech control & misuse.**  
+✔️ **Ensures that only serious operators gain access.**  
+✔️ **Acts as a legal framework to protect all licensees.**  
 
 ---
 
