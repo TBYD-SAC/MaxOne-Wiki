@@ -63,4 +63,13 @@ Any entity violating the license terms will be subject to **permanent exclusion 
 By using any MaxOne System, you automatically accept the **TBYD License v2.2** and agree to its full terms.
 
 📄 **For more details, visit:** [MaxOne-Wiki](https://github.com/TBYD-SAC/MaxOne-Wiki/wiki)
+---
+
+### 🔹 Preview Access – License Addendum A
+
+Selected individuals may be granted early, read-only access to MaxOne documentation under strict conditions.  
+This preview is legally governed by:
+
+📜 [TBYD License Addendum A – Preview Access](./LICENSE-Addendum-A.md)
+
 
