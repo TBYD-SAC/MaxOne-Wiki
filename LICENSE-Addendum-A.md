@@ -57,6 +57,15 @@ It remains valid for all current and future MaxOne preview releases unless expli
 
 ---
 
+## 🧾 Integrity Note
+
+This document is subject to SHA256-based integrity tracking.  
+Hash verification available at:  
+📄 [HASHES.md – Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+
+
+---
+
 **© 2025 – Take Back Your Data (TBYD)**  
 On behalf of the Senior Advisory Circle (SAC)  
 License Coordination: license@take-back-your-data.com
