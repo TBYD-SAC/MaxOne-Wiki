@@ -60,3 +60,5 @@ The integrity and release authenticity of this documentation set are protected v
 
 **© 2025 – Take Back Your Data (TBYD)**  
 Senior Advisory Circle · MaxOne Systems · All rights reserved under open structure licensing
+Integrity verified on 2025-03-31 via SHA256 hashes. See: [HASHES.md](./HASHES.md)
+
