@@ -53,11 +53,11 @@ Public Mirror: https://github.com/TBYD-SAC/MaxOne-Wiki
 
 All hashes listed above were generated on:
 
-🗓 **April 1st, 2025**  
-🕒 **13:02 CET** (Central European Time)  
+🗓 **March 31st, 2025**  
+🕒 **19:40 CEST** (Central European Summer Time)  
 📍 Location: TBYD Internal Validation Node (Anonymous Region, EU)
 
 Hash computation tool: `sha256sum` (GNU Coreutils 9.1)
 
-This timestamp is independently verifiable via GitHub commit history and IPFS timestamping if mirrored.
+This timestamp can be validated via GitHub commit metadata or future IPFS mirrors.
 
