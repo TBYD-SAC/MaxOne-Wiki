@@ -1,45 +1,62 @@
-# TBYD License Addendum A – Preview Access
+# 📜 TBYD License Addendum A – Public Preview (Read-Only Edition)
 
-## Purpose  
-This Addendum governs the conditions under which selected individuals may be granted **temporary, read-only access** to MaxOne documentation *prior to completing the full license acquisition process* under the TBYD License v2.2.
+## 🧭 Purpose
 
-## Scope  
-This preview access is intended for:
+This Addendum governs public access to all *MaxOne system documents* released under the TBYD framework **for inspection and verification purposes only**.
 
-- Regulatory institutions & oversight bodies  
-- Senior journalists & analysts with relevant public interest  
-- Pre-qualified researchers or expert reviewers  
-- Individuals designated by the TBYD coordination unit
+It replaces the earlier Preview Addendum for pre-release reviewers and now applies to all public readers after April 1st, 2025.
 
 ---
 
-## Legal Status
+## 📚 Scope of Access
 
-1. **Non-transferable** – Access is strictly personal and must not be shared.  
-2. **Non-commercial** – No rights to use, reproduce, or derive value from the content.  
-3. **Temporary** – Preview access expires within 10 days or upon publication.  
-4. **Read-only** – No implementation or deployment rights are granted.  
-5. **Binding** – Access is only granted after explicit agreement to this Addendum.
+This Addendum allows **any person or organization** to:
 
-This Addendum does not replace or amend the full TBYD License v2.2 but functions as a **pre-licensing clarification** to ensure secure, transparent early review.
+- 📖 Read, inspect, and evaluate the MaxOne documentation
+- 🔍 Verify the system’s claims, structure, and implementation logic
+- 🧠 Discuss or analyze the system publicly (with attribution)
 
----
+This Addendum **does not** grant any rights to:
 
-## Confidentiality
-
-Recipients agree to:
-
-- Treat all previewed materials as confidential.  
-- Refrain from public statements until formal publication or granted permission.  
-- Not disclose any metadata, identity information, or technical elements beyond what is publicly verifiable.
-
-Violation of any clause immediately voids access and future eligibility.
+- ❌ Use or deploy the system
+- ❌ Modify, fork, or derive from the code or blueprint
+- ❌ Integrate it into commercial, institutional, or personal systems
 
 ---
 
-## Issued by  
-**Take Back Your Data (TBYD)**  
-On behalf of the SAC & MaxOne Systems  
-Date of Issue: March 2025
+## ⚖️ Legal Status
+
+By accessing any MaxOne system documentation:
+
+- You acknowledge that this access is **read-only**
+- You agree not to use or adapt the system without a valid license under TBYD License v2.2
+- You understand that any unauthorized use will be considered a **license violation**
+
+Access to the full implementation rights requires:
+
+📜 [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)  
+📩 Contact: info@take-back-your-data.com
 
 ---
+
+## 🔒 Enforcement
+
+Violations of this Addendum may result in:
+
+- 🚫 Permanent exclusion from the MaxOne ecosystem
+- ⚖️ Legal measures under international copyright and license law
+- 🧾 Publication of license violations for institutional accountability
+
+---
+
+## 🗓 Validity
+
+This version is effective as of **April 1st, 2025**, and replaces all earlier preview agreements.
+
+It remains valid for all current and future MaxOne preview releases unless explicitly superseded.
+
+---
+
+**© 2025 – Take Back Your Data (TBYD)**  
+On behalf of the Senior Advisory Circle (SAC)  
+License Coordination: license@take-back-your-data.com
