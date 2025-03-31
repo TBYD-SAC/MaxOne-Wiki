@@ -57,6 +57,10 @@ All preview and release files are covered by cryptographic SHA256 validation.
 The whitepaper and structural documentation are timestamped and hashed.  
 📎 [See HASHES.md for public verification](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
 
+📘 Technical Whitepaper  
+[View as Markdown](./whitepaper-maxoneopen.md) – Final architecture version.  
+📎 Integrity: [HASHES.md](./HASHES.md)
+
 ---
 
 © 2025 – Take Back Your Data (TBYD)  
