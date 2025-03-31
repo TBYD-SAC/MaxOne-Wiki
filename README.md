@@ -58,6 +58,14 @@ All preview files and license documents are covered by cryptographic integrity p
 
 ---
 
+## 🔐 Integrity Verification
+
+This license is protected under the MaxOne structural license framework.  
+The authenticity and immutability of this document are secured via SHA256-based public hashing.  
+📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+
+---
+
 **© 2025 – Take Back Your Data (TBYD)**  
 Senior Advisory Circle · MaxOne Systems · All rights reserved under open structure licensing
 
