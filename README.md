@@ -52,20 +52,11 @@ To obtain usage rights, please complete the license process under [TBYD License 
 
 ---
 
-🔐 **Verify Integrity**  
-All preview files and license documents are covered by cryptographic integrity proofs.  
-📎 [View public hash registry (HASHES.md)](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
-
----
-
-## 🔐 Integrity Verification
-
-This license is protected under the MaxOne structural license framework.  
-The authenticity and immutability of this document are secured via SHA256-based public hashing.  
-📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+🔐 **Verify Integrity of All Documents**  
+The integrity and release authenticity of this documentation set are protected via public SHA256 hash registration.  
+📎 [HASHES.md – Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
 
 ---
 
 **© 2025 – Take Back Your Data (TBYD)**  
 Senior Advisory Circle · MaxOne Systems · All rights reserved under open structure licensing
-
