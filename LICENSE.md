@@ -70,5 +70,13 @@ By using any MaxOne System, you automatically accept the **TBYD License v2.2** a
 This license is protected under the TBYD structural licensing framework.  
 For public hash validation and timestamp verification, see:  
 📄 [Integrity Proof – HASHES.md](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+---
+
+## 🔐 Integrity Verification
+
+This license is protected under the MaxOne structural license framework.  
+The authenticity and immutability of this document are secured via SHA256-based public hashing.  
+📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+
 
 
