@@ -65,8 +65,9 @@ By using any MaxOne System, you automatically accept the **TBYD License v2.2** a
 ---
 
 ## 🔐 Integrity Verification
+
 This license is protected under the MaxOne structural licensing framework.  
 The authenticity and immutability of this document are secured via SHA256-based public hashing.  
 📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
-Integrity verified on 2025-03-31 via SHA256 hashes. See: [HASHES.md](./HASHES.md)
 
+👉 Integrity of all referenced files can be verified via HASHES.md.
