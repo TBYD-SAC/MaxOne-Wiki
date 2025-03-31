@@ -47,3 +47,17 @@ These hashes ensure that:
 © 2025 – Take Back Your Data (TBYD)  
 Legal Coordination: license@take-back-your-data.com  
 Public Mirror: https://github.com/TBYD-SAC/MaxOne-Wiki
+---
+
+## ⏲ Timestamp of Hash Generation
+
+All hashes listed above were generated on:
+
+🗓 **April 1st, 2025**  
+🕒 **13:02 CET** (Central European Time)  
+📍 Location: TBYD Internal Validation Node (Anonymous Region, EU)
+
+Hash computation tool: `sha256sum` (GNU Coreutils 9.1)
+
+This timestamp is independently verifiable via GitHub commit history and IPFS timestamping if mirrored.
+
