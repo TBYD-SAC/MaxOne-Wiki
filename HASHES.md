@@ -12,9 +12,9 @@ These hashes ensure that:
 
 ## 📦 MaxOneOpen Preview – Documentation Archive
 
-**Filename:** `maxoneopen-preview.zip`  
+**Filename:** `MaxOneOpen-final.zip`  
 **SHA256:**  
-`[HIER DEIN HASH EINFÜGEN]`
+`94d33152f4d8eea10ff572b0b3055e1bac4a2b81c48b74959bb281a9d1301af4`
 
 → This archive is protected under [Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)
 
@@ -25,33 +25,22 @@ These hashes ensure that:
 **Preview License Addendum A (read-only)**  
 **Filename:** `LICENSE-Addendum-A.md`  
 **SHA256:**  
-`[AUTOMATISCH VON GITHUB VERFÜGBAR – OPTIONAL EINFÜGEN]`
+🧩 Available via GitHub commit hash  
+🔗 [View File](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)
 
 ---
 
 **TBYD License v2.2 (Full Usage License)**  
 **Filename:** `LICENSE.md`  
 **SHA256:**  
-`[AUTOMATISCH VON GITHUB VERFÜGBAR – OPTIONAL EINFÜGEN]`
+🧩 Available via GitHub commit hash  
+🔗 [View File](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)
 
----
-
-## 📎 Verification Notes
-
-- All files listed above were published on or before **April 1st, 2025**.
-- Public access was granted exclusively under the legal terms listed above.
-- Any usage beyond preview without proper licensing constitutes a structural breach.
-
----
-
-© 2025 – Take Back Your Data (TBYD)  
-Legal Coordination: license@take-back-your-data.com  
-Public Mirror: https://github.com/TBYD-SAC/MaxOne-Wiki
 ---
 
 ## ⏲ Timestamp of Hash Generation
 
-All hashes listed above were generated on:
+All hashes listed above were generated and publicly committed on:
 
 🗓 **March 31st, 2025**  
 🕒 **19:40 CEST** (Central European Summer Time)  
@@ -61,3 +50,19 @@ Hash computation tool: `sha256sum` (GNU Coreutils 9.1)
 
 This timestamp can be validated via GitHub commit metadata or future IPFS mirrors.
 
+---
+
+## 🔏 Legal Scope
+
+All integrity claims refer exclusively to the SHA256 hash values listed above.  
+Any download, use, or reproduction of MaxOne systems outside this fingerprint scope  
+is considered **unlicensed and structurally invalid** under:
+
+📜 [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)  
+📜 [Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)
+
+---
+
+© 2025 – Take Back Your Data (TBYD)  
+Legal Coordination: license@take-back-your-data.com  
+Public Reference: https://github.com/TBYD-SAC/MaxOne-Wiki
