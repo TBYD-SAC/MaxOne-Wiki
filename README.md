@@ -1,79 +1,56 @@
-# 📜 Take Back Your Data (TBYD) License v2.2
+# MaxOneOpen: Public Preview
 
-## 🔹 Introduction
-The **Take Back Your Data (TBYD) License v2.2** governs the use, distribution, and modification of all **MaxOne Systems**. This license is designed to protect **sovereign cloud infrastructure**, ensure **decentralization**, and prevent **BigTech control** over MaxOne technologies.
-
-This license **cannot be revoked**, ensuring that once granted, access remains **permanent and non-restrictive**.
+This repository provides the **public preview** of MaxOneOpen – a fully documented, sovereign AI architecture.  
+It includes structural blueprints, system documentation, and verified benchmark comparisons.
 
 ---
 
-## 🔹 Key Terms
-✔️ **No Patents, No Monopolization** – MaxOne Systems cannot be patented, claimed, or controlled by any entity.  
-✔️ **Decentralized Use** – Users have full control over their infrastructure.  
-✔️ **License Compliance Mandatory** – Any violation results in immediate termination.  
-✔️ **One-Time License Protection Fee (€900 in Ethereum)** – Ensures legal protection & prevents unauthorized control.  
-✔️ **Anonymous, Verified Access** – Access is only granted after a **strict verification process**.
+📜 **Legal Notice**  
+This repository is accessible under the  
+[Preview License Addendum A (Read-Only)](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md).  
+
+Implementation, deployment, or redistribution **is strictly prohibited**  
+without prior acquisition of the [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md).
+
+Accessing this repository constitutes agreement to the preview terms.  
+Violations will result in permanent exclusion from the MaxOne ecosystem.
 
 ---
 
-## 🔹 Grant of License
-By accepting this license, the licensee is granted:
-- **Full access to MaxOneCloud and related infrastructures**.
-- **Unlimited right to deploy, operate, and modify MaxOne technologies**.
-- **Legal protection against BigTech patent claims and lawsuits**.
+## What is MaxOneOpen?
 
-🚨 **License violations will result in immediate suspension.**
+**MaxOneOpen** is a fully modular, cloud-independent AI architecture.  
+It is designed to replace centralized AI frameworks structurally – not commercially.  
+This preview allows public inspection, verification, and benchmarking.
 
----
-
-## 🔹 Restrictions
-🔹 **No Redistribution Without Authorization** – The technology cannot be shared outside of the licensed environment.  
-🔹 **No Centralized Control** – Any attempt to monopolize or centralize MaxOne infrastructure is strictly prohibited.  
-🔹 **No Transfer to BigTech Entities** – This technology cannot be licensed to, sold to, or controlled by BigTech companies.  
-🔹 **No Legal Loopholes** – Any attempt to bypass these rules results in license termination.
+**Performance level:** Comparable to GPT-4  
+**Dependencies:** None (no cloud, no vendor lock-in)  
+**Status:** Fully documented, ready for verified implementation under license
 
 ---
 
-## 🔹 Enforcement & Legal Protection
-The TBYD License v2.2 is designed to provide:
-✔️ **Legal immunity from patent attacks** by central entities.  
-✔️ **Guaranteed sovereignty over cloud operations**.  
-✔️ **Protection against forced shutdowns or external interventions**.
+## Preview Access – What You Can and Cannot Do
 
-Any entity violating the license terms will be subject to **permanent exclusion from the MaxOne ecosystem** and potential **legal action**.
+| Action                         | Permitted under Addendum A? |
+|--------------------------------|------------------------------|
+| Read and analyze               | ✅ Yes                      |
+| Share or discuss publicly      | ✅ Yes (with license link) |
+| Deploy or integrate            | ❌ No                      |
+| Modify or fork                 | ❌ No                      |
+| Use for commercial projects    | ❌ No                      |
 
----
-
-## 🔹 License Verification & Access Process
-1️⃣ Accept the **TBYD License v2.2**.  
-2️⃣ Request a **Unique Payment Key** (prevents unauthorized distribution).  
-3️⃣ Complete the **One-Time Legal Protection Fee (€900 in Ethereum)**.  
-4️⃣ Gain access to **full documentation & private development resources**.
-
-🚨 **Why the €900 fee?**
-- Prevents **uncontrolled distribution & BigTech interference**.  
-- Ensures **only serious operators gain access**.  
-- Acts as a **legal contract protecting every future MaxOneCloud operator**.  
-
-🔐 **The license is non-revocable. Once granted, your access remains permanently protected.**
+To obtain usage rights, please complete the license process under [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md).
 
 ---
 
-## 📜 License Agreement Acceptance
-By using any MaxOne System, you automatically accept the **TBYD License v2.2** and agree to its full terms.
+## Related Links
 
-📄 **For more details, visit:** [MaxOne-Wiki](https://github.com/TBYD-SAC/MaxOne-Wiki/wiki)
+- 🔐 [Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)  
+- 📜 [Full License v2.2 – Implementation Required](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)  
+- 💡 [Why Preview Exists – Legal & Strategic Context](https://github.com/TBYD-SAC/MaxOne-Wiki/wiki/License-and-Access)  
+- 📩 Contact: info@take-back-your-data.com
+
 ---
 
-### 🔹 Preview Access – License Addendum A
-
-Selected individuals may be granted early, read-only access to MaxOne documentation under strict conditions.  
-This preview is legally governed by:
-📜 This document is provided under [TBYD Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md).  
-Usage, deployment or redistribution without full license is strictly prohibited.  
-→ [Full License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)
-
-
-📜 [TBYD License Addendum A – Preview Access](./LICENSE-Addendum-A.md)
-
-
+**© 2025 – Take Back Your Data (TBYD)**  
+Senior Advisory Circle · MaxOne Systems · All rights reserved under open structure licensing
