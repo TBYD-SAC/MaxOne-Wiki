@@ -69,6 +69,10 @@ By using any MaxOne System, you automatically accept the **TBYD License v2.2** a
 
 Selected individuals may be granted early, read-only access to MaxOne documentation under strict conditions.  
 This preview is legally governed by:
+📜 This document is provided under [TBYD Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md).  
+Usage, deployment or redistribution without full license is strictly prohibited.  
+→ [Full License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)
+
 
 📜 [TBYD License Addendum A – Preview Access](./LICENSE-Addendum-A.md)
 
