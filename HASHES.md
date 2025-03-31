@@ -38,6 +38,14 @@ This document acts as:
 - [Preview Addendum A (Read-Only License)](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)  
 - [README – Main Access Page](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/README.md)  
 
+### Whitepaper – MaxOneOpen (Markdown Version)
+
+- Filename: whitepaper-maxoneopen.md  
+- Timestamp: 2025-03-31T20:55:00Z  
+- SHA256: c2b0153f68e267cb34ff4167c23fe823d5f49f3462b546093004f4ccbb59a8b1  
+- Description: Final, architecture-only version. Replaces all earlier documents or PDFs.  
+- License Binding: TBYD License v2.2 and Addendum A apply upon access.
+
 ---
 
 **💡 Reminder:**  
