@@ -62,21 +62,9 @@ Any entity violating the license terms will be subject to **permanent exclusion 
 ## 📜 License Agreement Acceptance
 By using any MaxOne System, you automatically accept the **TBYD License v2.2** and agree to its full terms.
 
-📄 **For more details, visit:** [MaxOne-Wiki](https://github.com/TBYD-SAC/MaxOne-Wiki/wiki/License-and-Access)
----
-
-## 🔐 Integrity Note
-
-This license is protected under the TBYD structural licensing framework.  
-For public hash validation and timestamp verification, see:  
-📄 [Integrity Proof – HASHES.md](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
 ---
 
 ## 🔐 Integrity Verification
-
-This license is protected under the MaxOne structural license framework.  
+This license is protected under the MaxOne structural licensing framework.  
 The authenticity and immutability of this document are secured via SHA256-based public hashing.  
 📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
-
-
-
