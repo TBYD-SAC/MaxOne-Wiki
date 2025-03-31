@@ -59,8 +59,9 @@ License Coordination: license@take-back-your-data.com
 ---
 
 ## 🧾 Integrity Verification
+
 This document is covered by a cryptographic integrity mechanism.  
 To verify its original release version and timestamp, refer to:  
 📎 [HASHES.md – Public SHA256 Registry](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
-Integrity verified on 2025-03-31 via SHA256 hashes. See: [HASHES.md](./HASHES.md)
 
+👉 Any tampering with HASHES.md or ZIP integrity voids this license.
