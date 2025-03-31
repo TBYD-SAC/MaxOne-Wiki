@@ -46,6 +46,7 @@ This document acts as:
 - Description: Final, architecture-only version. Replaces all earlier documents or PDFs.  
 - License Binding: TBYD License v2.2 and Addendum A apply upon access.
 
+****
 ---
 
 **💡 Reminder:**  
