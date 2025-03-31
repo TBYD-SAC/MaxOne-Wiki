@@ -52,5 +52,12 @@ To obtain usage rights, please complete the license process under [TBYD License 
 
 ---
 
+🔐 **Verify Integrity**  
+All preview files and license documents are covered by cryptographic integrity proofs.  
+📎 [View public hash registry (HASHES.md)](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+
+---
+
 **© 2025 – Take Back Your Data (TBYD)**  
 Senior Advisory Circle · MaxOne Systems · All rights reserved under open structure licensing
+
