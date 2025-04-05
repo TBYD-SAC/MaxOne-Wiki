@@ -1,73 +1,81 @@
-# 📜 Take Back Your Data (TBYD) License v2.2
+# 📜 TBYD Structural License (v2.2)
 
-## 🔹 Introduction
-The **Take Back Your Data (TBYD) License v2.2** governs the use, distribution, and modification of all **MaxOne Systems**. This license is designed to protect **sovereign cloud infrastructure**, ensure **decentralization**, and prevent **BigTech control** over MaxOne technologies.
+This license grants rights for the operational use of TBYD systems under the structural sovereignty model.
 
-This license **cannot be revoked**, ensuring that once granted, access remains **permanent and non-restrictive**.
-
----
-
-## 🔹 Key Terms
-✔️ **No Patents, No Monopolization** – MaxOne Systems cannot be patented, claimed, or controlled by any entity.  
-✔️ **Decentralized Use** – Users have full control over their infrastructure.  
-✔️ **License Compliance Mandatory** – Any violation results in immediate termination.  
-✔️ **One-Time License Protection Fee (€900 in Ethereum)** – Ensures legal protection & prevents unauthorized control.  
-✔️ **Anonymous, Verified Access** – Access is only granted after a **strict verification process**.
+It applies to all systems listed and classified in the [`LICENSE_CLASSIFICATION.md`](./LICENSE_CLASSIFICATION.md).  
+The license is **not transferable**, **not monetized**, and **not negotiable**.  
+It is activated only upon verifiable structural entry.
 
 ---
 
-## 🔹 Grant of License
-By accepting this license, the licensee is granted:
-- **Full access to MaxOneCloud and related infrastructures**.
-- **Unlimited right to deploy, operate, and modify MaxOne technologies**.
-- **Legal protection against BigTech patent claims and lawsuits**.
+## ✅ What this license grants you
 
-🚨 **License violations will result in immediate suspension.**
+If properly activated and classified, this license grants:
 
----
-
-## 🔹 Restrictions
-🔹 **No Redistribution Without Authorization** – The technology cannot be shared outside of the licensed environment.  
-🔹 **No Centralized Control** – Any attempt to monopolize or centralize MaxOne infrastructure is strictly prohibited.  
-🔹 **No Transfer to BigTech Entities** – This technology cannot be licensed to, sold to, or controlled by BigTech companies.  
-🔹 **No Legal Loopholes** – Any attempt to bypass these rules results in license termination.
+- Full usage rights of the defined TBYD system version
+- Right to deploy, fork, test, scale or structurally validate
+- Access to Filebase deployment packages, compliance layers, MaxAudit verification trails
+- Right to publicly declare MaxAudit-conformity of systems built on TBYD foundations
 
 ---
 
-## 🔹 Enforcement & Legal Protection
-The TBYD License v2.2 is designed to provide:
-✔️ **Legal immunity from patent attacks** by central entities.  
-✔️ **Guaranteed sovereignty over cloud operations**.  
-✔️ **Protection against forced shutdowns or external interventions**.
+## 🚫 What this license does NOT grant
 
-Any entity violating the license terms will be subject to **permanent exclusion from the MaxOne ecosystem** and potential **legal action**.
-
----
-
-## 🔹 License Verification & Access Process
-1️⃣ Accept the **TBYD License v2.2**.  
-2️⃣ Request a **Unique Payment Key** (prevents unauthorized distribution).  
-3️⃣ Complete the **One-Time Legal Protection Fee (€900 in Ethereum)**.  
-4️⃣ Gain access to **full documentation & private development resources**.
-
-🚨 **Why the €900 fee?**
-- Prevents **uncontrolled distribution & BigTech interference**.  
-- Ensures **only serious operators gain access**.  
-- Acts as a **legal contract protecting every future MaxOneCloud operator**.  
-
-🔐 **The license is non-revocable. Once granted, your access remains permanently protected.**
+- Exclusive rights or patents
+- Ownership or trademark claims
+- The right to restrict others from using the same structure
+- Any use of the preview-only versions for deployment (see [`LICENSE-Addendum-A.md`](./LICENSE-Addendum-A.md))
 
 ---
 
-## 📜 License Agreement Acceptance
-By using any MaxOne System, you automatically accept the **TBYD License v2.2** and agree to its full terms.
+## 💶 Structural Activation Fee (Protection Fee)
+
+To activate this license, a **non-commercial, structural protection fee** must be paid via Ethereum  
+to a **user-specific target address** provided by TBYD.
+
+| License Class | Description                             | Protection Fee | ETH Required | Payment Address |
+|---------------|-----------------------------------------|----------------|--------------|-----------------|
+| A             | Core systems (e.g., MaxOneCloud/Open)   | €2,500         | Yes          | Provided on request |
+| B             | Auditing systems (e.g., MaxAudit)       | €1,500         | Yes          | Provided on request |
+| C             | Lightweight tools (e.g., MaxOps Layer)  | €750 (optional)| Case-based   | Provided on request |
+
+> **This fee is not a commercial transaction.**  
+> It is a structural entry marker that protects all parties, binds the system to the audit framework,  
+> and ensures that deployment cannot be revoked, misrepresented or obscured.
+
+For ETH addresses and payment verification, contact:  
+📧 [license@take-back-your-data.com](mailto:license@take-back-your-data.com)  
+🔗 Or via 1:1: [linkedin.com/company/take-back-your-data](https://www.linkedin.com/company/take-back-your-data)
 
 ---
 
-## 🔐 Integrity Verification
+## 🔐 Hash-Based Validity
 
-This license is protected under the MaxOne structural licensing framework.  
-The authenticity and immutability of this document are secured via SHA256-based public hashing.  
-📎 [View HASHES.md – Public Integrity Proof](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+This license is only valid when linked to a specific, published system hash.
 
-👉 Integrity of all referenced files can be verified via HASHES.md.
+- All valid hashes are listed in [`HASHES.md`](./HASHES.md)
+- The license only applies to versions whose hash has not been altered or overridden
+- In case of dispute, the hash acts as the **single source of truth**
+
+> “No license without a hash. No protection without activation.”
+
+---
+
+## 🧠 Intent of this license
+
+TBYD does not offer products, services or support.  
+It offers documented, reproducible infrastructure structures.
+
+This license is not an agreement between persons – it is a **structural protocol for sovereignty.**
+
+It protects users against:
+- external control
+- narrative manipulation
+- revocation attempts
+
+and ensures that **any deployment is verifiable, unowned, and irreversible**.
+
+---
+
+_Last updated: 2025-04-05_  
+_Take Back Your Data (TBYD) – Structural autonomy, not contractual dependency._
