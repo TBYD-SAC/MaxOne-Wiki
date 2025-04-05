@@ -1,67 +1,61 @@
-# 📜 TBYD License Addendum A – Public Preview (Read-Only Edition)
+# 📄 TBYD Preview License – Addendum A
 
-## 🧭 Purpose
-This Addendum governs public access to all *MaxOne system documents* released under the TBYD framework **for inspection and verification purposes only**.
+This license grants strictly limited, read-only access to publicly published TBYD system documentation,  
+for the sole purpose of **private evaluation, academic analysis, or internal review.**
 
-It replaces the earlier Preview Addendum for pre-release reviewers and now applies to all public readers after April 1st, 2025.
-
----
-
-## 📚 Scope of Access
-This Addendum allows **any person or organization** to:
-
-- 📖 Read, inspect, and evaluate the MaxOne documentation  
-- 🔍 Verify the system’s claims, structure, and implementation logic  
-- 🧠 Discuss or analyze the system publicly (with attribution)
-
-This Addendum **does not** grant any rights to:
-
-- ❌ Use or deploy the system  
-- ❌ Modify, fork, or derive from the code or blueprint  
-- ❌ Integrate it into commercial, institutional, or personal systems
+It does **not** grant permission to use, deploy, integrate, derive from, or redistribute the referenced systems.
 
 ---
 
-## ⚖️ Legal Status
-By accessing any MaxOne system documentation:
+## 🔍 What this license permits
 
-- You acknowledge that this access is **read-only**  
-- You agree not to use or adapt the system without a valid license under TBYD License v2.2  
-- You understand that any unauthorized use will be considered a **license violation**
+You may:
 
-Access to the full implementation rights requires:
-
-📜 [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)  
-📩 Contact: info@take-back-your-data.com
+- View the public documentation of the referenced system
+- Audit the architectural logic for learning, evaluation, or verification
+- Internally simulate the structure in non-productive, disconnected environments
+- Share the documentation **unchanged** with internal audit or compliance personnel
 
 ---
 
-## 🔒 Enforcement
-Violations of this Addendum may result in:
+## 🚫 What this license prohibits
 
-- 🚫 Permanent exclusion from the MaxOne ecosystem  
-- ⚖️ Legal measures under international copyright and license law  
-- 🧾 Publication of license violations for institutional accountability
+You may **not**:
 
----
+- Deploy or operate any part of the system described
+- Fork, modify or integrate any part of the documentation into running code
+- Represent the system as licensed or authorized for productive use
+- Publish or distribute modified versions of the structure
+- Use the preview as evidence of audit conformity or operational sovereignty
 
-## 🗓 Validity
-This version is effective as of **April 1st, 2025**, and replaces all earlier preview agreements.
-
-It remains valid for all current and future MaxOne preview releases unless explicitly superseded.
-
----
-
-**© 2025 – Take Back Your Data (TBYD)**  
-On behalf of the Senior Advisory Circle (SAC)  
-License Coordination: license@take-back-your-data.com
+> Any operational or production-level usage requires activation of the full license  
+> as defined in [`LICENSE.md`](./LICENSE.md), including structural protection fee and ETH verification.
 
 ---
 
-## 🧾 Integrity Verification
+## 🗂️ Valid System Versions
 
-This document is covered by a cryptographic integrity mechanism.  
-To verify its original release version and timestamp, refer to:  
-📎 [HASHES.md – Public SHA256 Registry](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+This preview license only applies to official versions listed in:
 
-👉 Any tampering with HASHES.md or ZIP integrity voids this license.
+- [`LICENSE_CLASSIFICATION.md`](./LICENSE_CLASSIFICATION.md)
+- [`HASHES.md`](./HASHES.md)
+
+Any preview copy not matching a published hash is not covered and **must not be used.**
+
+---
+
+## 📬 Want to activate a full license?
+
+To initiate a verifiable and protected deployment:
+
+- Contact 📧 [license@take-back-your-data.com](mailto:license@take-back-your-data.com)  
+  *(for institutional or operational use)*  
+- Or reach out via 🔗 [TBYD LinkedIn 1:1](https://www.linkedin.com/company/take-back-your-data)
+
+You will receive a user-specific ETH address and version-hash reference.  
+Activation is completed upon payment and audit-verification match.
+
+---
+
+_Last updated: 2025-04-05_  
+_Take Back Your Data (TBYD) – Evaluation is free. Usage is a structural decision._
