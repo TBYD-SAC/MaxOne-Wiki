@@ -65,7 +65,7 @@ It is a fully sovereign execution architecture with built-in governance, integri
 
 ## Structural Foundations of MaxOneOpen
 
-### §0.1 – Structural Identity and System Scope
+### **§0.1 – Structural Identity and System Scope**
 
 **§0.1.1  Definition of MaxOneOpen**  
 MaxOneOpen is a structural execution system designed for sovereign operation of AI-based infrastructures.  
@@ -90,7 +90,7 @@ All documentation must enable fork traceability and auditability.
 
 ---
 
-### §0.2 – Required Mindset Shift for Structural Reproduction
+### **§0.2 – Required Mindset Shift for Structural Reproduction**
 
 **§0.2.1  Contextual Clarification**  
 MaxOneOpen cannot be built with platform logic. It requires structural reasoning and sovereign execution principles.
@@ -112,7 +112,7 @@ Failure to apply these shifts invalidates conformity and runtime audit integrity
 
 ---
 
-### §0.3 – System Boundary and Operator Responsibility
+### **§0.3 – System Boundary and Operator Responsibility**
 
 **§0.3.1  Boundary Definition**  
 The system ends where auditability ends. Anything unverifiable is outside.
@@ -136,8 +136,8 @@ Responsibility transfer requires cryptographic anchoring and complete structural
 
 This document is dual-governed:
 
-- [TBYD License v2.2](./v3.4-LIC-001_TBYD%20License%20v2.2.pdf) — applies to structural content and replication use  
-- [Preview License Addendum A](./Preview-License-Addendum-A.md) — applies to public visibility via this wiki
+- [TBYD License v2.2](./v3.4-LIC-001_TBYD%20License%20v2.2.pdf) — applies to structural content and sovereign system replication  
+- [Preview License Addendum A](./Preview-License-Addendum-A.md) — applies to public availability via this wiki
 
 All content may be reused, forked, and verified in sovereign systems  
 as long as structural integrity is preserved and monopolization is excluded.
