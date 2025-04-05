@@ -1,4 +1,4 @@
-# MaxOneAudit | Technological Structure Audit (CTO Level)
+# MaxOneOpen | Technological Structure Audit (CTO Level)
 
 **System:** MaxOneOpen v3.4  
 **Type:** Replicable Execution Architecture for LLM-Based Systems  
