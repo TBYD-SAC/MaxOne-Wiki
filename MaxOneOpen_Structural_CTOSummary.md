@@ -65,35 +65,43 @@ It is a fully sovereign execution architecture with built-in governance, integri
 
 ## Structural Foundations of MaxOneOpen
 
+---
+
 ### **§0.1 – Structural Identity and System Scope**
 
 **§0.1.1  Definition of MaxOneOpen**  
 MaxOneOpen is a structural execution system designed for sovereign operation of AI-based infrastructures.  
-It is not a software framework, SDK, service platform, or integration product.
+It is not a software framework, SDK, service platform, or integration product.  
+It provides a governance-anchored, policy-enforced, and cryptographically verifiable environment.
 
 **§0.1.2  Delimitation from Classical IT Paradigms**  
 MaxOneOpen is incompatible with:  
 - API-first/backend-first architecture  
 - Admin-based permission models  
 - Opaque ML wrappers  
-- Centralized control systems
+- Centralized logging or control layers
 
 **§0.1.3  Criteria for Structural Conformity**  
 A system is conformant if it:  
-1. Implements all core structural layers  
-2. Is verifiably forkable from public specs  
-3. Avoids unverifiable dependencies  
-4. Operates airgapped if required
+1. Implements all core structural layers (capsules, identity, audit, runtime)  
+2. Is verifiably forkable using public specs  
+3. Avoids unverifiable external dependencies  
+4. Operates offline if required, with self-verifiable proof logic
 
 **§0.1.4  Documentation as Operational Layer**  
-All documentation must enable fork traceability and auditability.
+All MaxOneOpen documentation is structurally binding and part of the execution integrity.  
+It must enable:  
+- Fork traceability  
+- Audit trail verification  
+- Governance validation
 
 ---
 
 ### **§0.2 – Required Mindset Shift for Structural Reproduction**
 
 **§0.2.1  Contextual Clarification**  
-MaxOneOpen cannot be built with platform logic. It requires structural reasoning and sovereign execution principles.
+MaxOneOpen cannot be built with traditional product, service, or DevOps mentalities.  
+It requires architectural thinking anchored in proof, decoupling, and sovereignty.
 
 **§0.2.2  Seven Structural Shifts Required**  
 1. From Application to Execution Structure  
@@ -105,7 +113,8 @@ MaxOneOpen cannot be built with platform logic. It requires structural reasoning
 7. From Admin Rights to Certified Forks
 
 **§0.2.3  Consequences of Misalignment**  
-Failure to apply these shifts invalidates conformity and runtime audit integrity.
+Failure to apply these shifts leads to loss of auditability, structural drift, and invalid runtime logic.  
+The resulting system may run, but cannot be considered MaxOne-conformant.
 
 **§0.2.4  Reference to CTO Audit**  
 → See: MaxOneAudit_Technological_Structure_CTOSummary.docx
@@ -115,20 +124,27 @@ Failure to apply these shifts invalidates conformity and runtime audit integrity
 ### **§0.3 – System Boundary and Operator Responsibility**
 
 **§0.3.1  Boundary Definition**  
-The system ends where auditability ends. Anything unverifiable is outside.
+The system ends where structural auditability ends. Anything unverifiable or externally controlled is outside.  
+System boundaries are cryptographically enforced, not administratively assumed.
 
 **§0.3.2  Operator Role**  
-Operators are structurally accountable for:  
-- Stack integrity  
-- Traceability  
-- Revocation logic  
-- Fork audits
+The sovereign operator is technically accountable for:  
+- Structural stack integrity  
+- Runtime traceability  
+- Certified forking & revocation logic  
+- Offline fallback governance
 
 **§0.3.3  Modification Requirements**  
-Any certified change must be registered, auditable, and conformity-preserving.
+Any structural changes to identity, capsule, or runtime logic must be:  
+- Audit-traced  
+- Certification-aware  
+- Verifiably conformant or clearly forked
 
 **§0.3.4  Transfer Conditions**  
-Responsibility transfer requires cryptographic anchoring and complete structural handoff.
+Operator responsibility may only be transferred if:  
+- All structural domains are intact and cryptographically handed over  
+- The receiving party accepts scope-bound governance  
+- The transfer is publicly or provably anchored
 
 ---
 
@@ -137,7 +153,7 @@ Responsibility transfer requires cryptographic anchoring and complete structural
 This document is dual-governed:
 
 - [TBYD License v2.2](./v3.4-LIC-001_TBYD%20License%20v2.2.pdf) — applies to structural content and sovereign system replication  
-- [Preview License Addendum A](./Preview-License-Addendum-A.md) — applies to public availability via this wiki
+- [Preview License Addendum A](./Preview-License-Addendum-A.md) — applies to public visibility via this wiki
 
 All content may be reused, forked, and verified in sovereign systems  
 as long as structural integrity is preserved and monopolization is excluded.
