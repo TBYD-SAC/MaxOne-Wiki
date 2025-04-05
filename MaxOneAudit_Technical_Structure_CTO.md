@@ -42,6 +42,8 @@ It is a fully sovereign execution architecture with built-in governance, integri
 > No registration. No license lock-in. No external trust anchors.  
 > Only structure, integrity, and documented execution control.
 
+> MaxOneAudit is the structural audit companion to MaxOneOpen, providing cryptographically verifiable execution oversight.
+
 ---
 
 *This document is licensed under the [TBYD License v2.2](./v3.4-LIC-001_TBYD%20License%20v2.2.pdf).*
