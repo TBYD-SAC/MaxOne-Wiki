@@ -28,9 +28,9 @@ C | Lightweight tools, helpers, visualisations | €750 (optional) | Case-by-cas
 
 System Name | License Class | Current Version | Protection Fee | Hash Reference | Documentation  
 ----------- | ------------- | --------------- | -------------- | -------------- | --------------  
-MaxOneOpen | A | `v1.0.0` | €2,500 | `0x83b1...d7f9` | [Whitepaper](./docs/Whitepaper.pdf)  
-MaxOneCloud | A | `v1.0.0` | €2,500 | `0x5ae9...82e1` | [CTO Summary](./docs/CTO_Summary.pdf)  
-MaxAudit | B | `v1.0.0` | €1,500 | `0xe13c...4a72` | [Tech Strategy](./docs/Tech_Strategy.pdf)  
+MaxOneOpen | A | `v1.0.0` | €2,500 | `0x83b1...d7f9` | [Whitepaper](./whitepaper-maxoneopen.md)  
+MaxOneCloud | A | `v1.0.0` | €2,500 | `0x5ae9...82e1` | [CTO Summary](./MaxOneOpen_Structural_CTOSummary.md)  
+MaxAudit | B | `v1.0.0` | €1,500 | `0xe13c...4a72` | [Tech Strategy](./MaxOneAudit_Technological_Structure_CTO_v3.4.md)  
 MaxReg | B | (pending) | €1,500 | (pending) | (pending)
 
 > All hashes are fully listed and verified in [HASHES.md](./HASHES.md).  
