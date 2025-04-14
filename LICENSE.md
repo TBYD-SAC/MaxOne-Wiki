@@ -14,8 +14,8 @@ If properly activated and classified, this license grants:
 
 - Full usage rights of the defined TBYD system version
 - Right to deploy, fork, test, scale or structurally validate
-- Access to Filebase deployment packages, compliance layers, MaxAudit verification trails
-- Right to publicly declare MaxAudit-conformity of systems built on TBYD foundations
+- Access to Filebase deployment packages, compliance layers, MaxAudit and MaxReg verification trails
+- Right to publicly declare MaxAudit- and MaxReg-conformity of systems built on TBYD foundations
 
 ---
 
@@ -36,8 +36,8 @@ to a **user-specific target address** provided by TBYD.
 | License Class | Description                             | Protection Fee | ETH Required | Payment Address |
 |---------------|-----------------------------------------|----------------|--------------|-----------------|
 | A             | Core systems (e.g., MaxOneCloud/Open)   | €2,500         | Yes          | Provided on request |
-| B             | Auditing systems (e.g., MaxAudit)       | €1,500         | Yes          | Provided on request |
-| C             | Lightweight tools (e.g., MaxOps Layer)  | €750 (optional)| Case-based   | Provided on request |
+| B             | Auditing systems (e.g., MaxAudit, MaxReg) | €1,500         | Yes          | Provided on request |
+| C             | Lightweight tools (e.g., MaxOps Layer)  | €750 (optional) | Case-based   | Provided on request |
 
 > **This fee is not a commercial transaction.**  
 > It is a structural entry marker that protects all parties, binds the system to the audit framework,  
@@ -77,5 +77,5 @@ and ensures that **any deployment is verifiable, unowned, and irreversible**.
 
 ---
 
-_Last updated: 2025-04-05_  
+_Last updated: 2025-04-14_  
 _Take Back Your Data (TBYD) – Structural autonomy, not contractual dependency._
