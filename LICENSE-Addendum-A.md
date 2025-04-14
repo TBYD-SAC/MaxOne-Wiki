@@ -3,6 +3,8 @@
 This license grants strictly limited, read-only access to publicly published TBYD system documentation,  
 for the sole purpose of **private evaluation, academic analysis, or internal review.**
 
+Accessing this license or its associated materials does **not** constitute acceptance of any rights.
+
 It does **not** grant permission to use, deploy, integrate, derive from, or redistribute the referenced systems.
 
 ---
@@ -16,6 +18,8 @@ You may:
 - Internally simulate the structure in non-productive, disconnected environments
 - Share the documentation **unchanged** with internal audit or compliance personnel
 
+> Evaluation is strictly limited to theoretical analysis without integration into any operational systems.
+
 ---
 
 ## 🚫 What this license prohibits
@@ -26,10 +30,9 @@ You may **not**:
 - Fork, modify or integrate any part of the documentation into running code
 - Represent the system as licensed or authorized for productive use
 - Publish or distribute modified versions of the structure
-- Use the preview as evidence of audit conformity or operational sovereignty for MaxAudit, MaxReg or any related systems
+- Use the preview as evidence of audit conformity or operational sovereignty for MaxAudit, MaxReg, or any related systems
 
-> Any operational or production-level usage requires activation of the full license  
-> as defined in [`LICENSE.md`](./LICENSE.md), including structural protection fee and ETH verification.
+Unauthorized operational use constitutes a breach of the structural protocol and may result in exclusion from future access and verification privileges.
 
 ---
 
@@ -53,7 +56,13 @@ To initiate a verifiable and protected deployment:
 - Or reach out via 🔗 [TBYD LinkedIn 1:1](https://www.linkedin.com/company/take-back-your-data)
 
 You will receive a user-specific ETH address and version-hash reference.  
-Activation is completed upon payment and audit-verification match.
+Activation is completed only upon full ETH transfer confirmation **and** successful system hash verification.
+
+---
+
+## ⚖️ Governing Principles
+
+This protocol operates under the principles of digital sovereignty and is not subject to any national jurisdiction.
 
 ---
 
