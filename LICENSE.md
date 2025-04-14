@@ -6,6 +6,8 @@ It applies to all systems listed and classified in the [`LICENSE_CLASSIFICATION.
 The license is **not transferable**, **not monetized**, and **not negotiable**.  
 It is activated only upon verifiable structural entry.
 
+Accessing this license or its associated materials does **not** constitute acceptance of any rights unless fully activated.
+
 ---
 
 ## ✅ What this license grants you
@@ -26,12 +28,16 @@ If properly activated and classified, this license grants:
 - The right to restrict others from using the same structure
 - Any use of the preview-only versions for deployment (see [`LICENSE-Addendum-A.md`](./LICENSE-Addendum-A.md))
 
+> No rights are granted implicitly or through access alone.
+
 ---
 
 ## 💶 Structural Activation Fee (Protection Fee)
 
 To activate this license, a **non-commercial, structural protection fee** must be paid via Ethereum  
 to a **user-specific target address** provided by TBYD.
+
+Activation is only deemed complete upon full ETH transfer confirmation **and** successful system hash verification.
 
 | License Class | Description                             | Protection Fee | ETH Required | Payment Address |
 |---------------|-----------------------------------------|----------------|--------------|-----------------|
@@ -45,7 +51,7 @@ to a **user-specific target address** provided by TBYD.
 
 For ETH addresses and payment verification, contact:  
 📧 [license@take-back-your-data.com](mailto:license@take-back-your-data.com)  
-🔗 Or via 1:1: [linkedin.com/company/take-back-your-data](https://www.linkedin.com/company/take-back-your-data)
+🔗 Or via 1:1: [TBYD LinkedIn](https://www.linkedin.com/company/take-back-your-data)
 
 ---
 
@@ -56,6 +62,8 @@ This license is only valid when linked to a specific, published system hash.
 - All valid hashes are listed in [`HASHES.md`](./HASHES.md)
 - The license only applies to versions whose hash has not been altered or overridden
 - In case of dispute, the hash acts as the **single source of truth**
+
+Unauthorized operational use constitutes a breach of the structural protocol and may result in exclusion from future access and verification privileges.
 
 > “No license without a hash. No protection without activation.”
 
@@ -74,6 +82,12 @@ It protects users against:
 - revocation attempts
 
 and ensures that **any deployment is verifiable, unowned, and irreversible**.
+
+---
+
+## ⚖️ Governing Principles
+
+This protocol operates under the principles of digital sovereignty and is not subject to any national jurisdiction.
 
 ---
 
