@@ -26,7 +26,7 @@ You may **not**:
 - Fork, modify or integrate any part of the documentation into running code
 - Represent the system as licensed or authorized for productive use
 - Publish or distribute modified versions of the structure
-- Use the preview as evidence of audit conformity or operational sovereignty
+- Use the preview as evidence of audit conformity or operational sovereignty for MaxAudit, MaxReg or any related systems
 
 > Any operational or production-level usage requires activation of the full license  
 > as defined in [`LICENSE.md`](./LICENSE.md), including structural protection fee and ETH verification.
@@ -57,5 +57,5 @@ Activation is completed upon payment and audit-verification match.
 
 ---
 
-_Last updated: 2025-04-05_  
+_Last updated: 2025-04-14_  
 _Take Back Your Data (TBYD) – Evaluation is free. Usage is a structural decision._
