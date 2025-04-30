@@ -1,70 +1,67 @@
-# 📄 TBYD Preview License – Addendum A
+# TBYD License – Addendum A: Preview-Only Access
 
-This license grants strictly limited, read-only access to publicly published TBYD system documentation,  
-for the sole purpose of **private evaluation, academic analysis, or internal review.**
+This document defines the limited terms under which preview-only access is granted for official TBYD systems.
 
-Accessing this license or its associated materials does **not** constitute acceptance of any rights.
+## Scope & Applicability
 
-It does **not** grant permission to use, deploy, integrate, derive from, or redistribute the referenced systems.
+This preview-only license applies to **all officially published TBYD systems currently listed** in the [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md), **including MaxTune and SDG**, unless explicitly excluded.
 
----
+No use, execution, deployment, distribution, or derivation is permitted under this addendum.
 
-## 🔍 What this license permits
-
-You may:
-
-- View the public documentation of the referenced system
-- Audit the architectural logic for learning, evaluation, or verification
-- Internally simulate the structure in non-productive, disconnected environments
-- Share the documentation **unchanged** with internal audit or compliance personnel
-
-> Evaluation is strictly limited to theoretical analysis without integration into any operational systems.
+The sole purpose of this license is to enable transparent **read-only review of technical documentation** and architecture structure, without the activation of any executable components or underlying code systems.
 
 ---
 
-## 🚫 What this license prohibits
+## Permitted Actions under Preview License
 
-You may **not**:
+The following actions are allowed for any listed system:
 
-- Deploy or operate any part of the system described
-- Fork, modify or integrate any part of the documentation into running code
-- Represent the system as licensed or authorized for productive use
-- Publish or distribute modified versions of the structure
-- Use the preview as evidence of audit conformity or operational sovereignty for MaxAudit, MaxReg, or any related systems
-
-Unauthorized operational use constitutes a breach of the structural protocol and may result in exclusion from future access and verification privileges.
+- Read-only access to publicly available documentation
+- Verification of structural principles, architecture design, and licensing model
+- Public or private commentary, analysis, or critique (with proper attribution)
+- Distribution of unchanged preview documents with source reference
 
 ---
 
-## 🗂️ Valid System Versions
+## Prohibited Actions under Preview License
 
-This preview license only applies to official versions listed in:
+The following actions are explicitly **forbidden**:
 
-- [`LICENSE_CLASSIFICATION.md`](./LICENSE_CLASSIFICATION.md)
-- [`HASHES.md`](./HASHES.md)
+- Running or deploying any system based on preview documentation
+- Using any preview content in commercial, regulatory, or production contexts
+- Integrating preview systems into larger digital infrastructures
+- Creating forks or derivatives under the preview license
+- Modifying and redistributing documentation without reference to TBYD
 
-Any preview copy not matching a published hash is not covered and **must not be used.**
-
----
-
-## 📬 Want to activate a full license?
-
-To initiate a verifiable and protected deployment:
-
-- Contact 📧 [license@take-back-your-data.com](mailto:license@take-back-your-data.com)  
-  *(for institutional or operational use)*  
-- Or reach out via 🔗 [TBYD LinkedIn 1:1](https://www.linkedin.com/company/take-back-your-data)
-
-You will receive a user-specific ETH address and version-hash reference.  
-Activation is completed only upon full ETH transfer confirmation **and** successful system hash verification.
+Violations of these rules void this addendum and may trigger formal audit or public notice.
 
 ---
 
-## ⚖️ Governing Principles
+## No License Activation
 
-This protocol operates under the principles of digital sovereignty and is not subject to any national jurisdiction.
+This addendum **does not** grant any rights to activate, use, audit, host, or distribute any system.  
+To receive full rights, a valid system-specific license under the terms of [LICENSE.md](./LICENSE.md) must be requested and confirmed.
 
 ---
 
-_Last updated: 2025-04-14_  
-_Take Back Your Data (TBYD) – Evaluation is free. Usage is a structural decision._
+## Documentation Integrity
+
+All previewed documents must match the latest verified version as referenced in:
+
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md)
+- [HASHES.md](./HASHES.md)
+
+No preview rights apply to systems not listed or unverified.
+
+---
+
+## Jurisdiction & Validity
+
+This preview license is non-exclusive, non-transferable, and structurally irreversible.  
+No jurisdictional preference is claimed.  
+All preview content is published in accordance with the principle of digital structural sovereignty.
+
+---
+
+_Last updated: 2025-04-30_  
+_Take Back Your Data (TBYD) – Digital Souveränität durch Struktur, nicht durch Zustimmung._
