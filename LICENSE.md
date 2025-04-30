@@ -1,95 +1,81 @@
-# 📜 TBYD Structural License (v2.2)
+# TBYD Full License – Operational Grant of Rights
 
-This license grants rights for the operational use of TBYD systems under the structural sovereignty model.
+This license governs the use, audit, deployment, and further distribution of all officially published TBYD systems that fall under the open structural license regime as defined and versioned below.
 
-It applies to all systems listed and classified in the [`LICENSE_CLASSIFICATION.md`](./LICENSE_CLASSIFICATION.md).  
-The license is **not transferable**, **not monetized**, and **not negotiable**.  
-It is activated only upon verifiable structural entry.
+* * *
 
-Accessing this license or its associated materials does **not** constitute acceptance of any rights unless fully activated.
+## Scope
 
----
+This license applies to all systems explicitly listed in the current [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md).  
+No license shall be assumed for any unlisted system, regardless of its technical origin, prior preview access, or internal distribution.  
 
-## ✅ What this license grants you
+Only systems that are:
+1. officially published,
+2. listed in the classification table,
+3. and supported by a structural protection fee per user key  
+are considered valid under this license.
 
-If properly activated and classified, this license grants:
+* * *
 
-- Full usage rights of the defined TBYD system version
-- Right to deploy, fork, test, scale or structurally validate
-- Access to Filebase deployment packages, compliance layers, MaxAudit and MaxReg verification trails
-- Right to publicly declare MaxAudit- and MaxReg-conformity of systems built on TBYD foundations
+## Rights Granted
 
----
+Subject to the payment of the protection fee and successful verification via ETH key, the licensee is granted the following rights **per licensed system**:
 
-## 🚫 What this license does NOT grant
+- Full access to all technical documentation and compiled code
+- Permission to deploy, audit, and extend the system on private or public infrastructure
+- Use of the system within legal boundaries in non-restrictive jurisdictions
+- Right to create forks under defined compliance and hash-verification rules
+- Right to publish public benchmarks, comparisons, and compatibility reports
 
-- Exclusive rights or patents
-- Ownership or trademark claims
-- The right to restrict others from using the same structure
-- Any use of the preview-only versions for deployment (see [`LICENSE-Addendum-A.md`](./LICENSE-Addendum-A.md))
+* * *
 
-> No rights are granted implicitly or through access alone.
+## License Activation & Validation
 
----
+A valid license exists only if:
 
-## 💶 Structural Activation Fee (Protection Fee)
+- The declared user key has successfully transmitted the required protection fee
+- The system version matches the declared cryptographic hash as listed in [HASHES.md](./HASHES.md)
+- The system is listed in [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md) with a valid version number
+- The audit record matches the deployment version
 
-To activate this license, a **non-commercial, structural protection fee** must be paid via Ethereum  
-to a **user-specific target address** provided by TBYD.
+Licensing is **modular**: each system requires its own license entry and hash confirmation.
 
-Activation is only deemed complete upon full ETH transfer confirmation **and** successful system hash verification.
+* * *
 
-| License Class | Description                             | Protection Fee | ETH Required | Payment Address |
-|---------------|-----------------------------------------|----------------|--------------|-----------------|
-| A             | Core systems (e.g., MaxOneCloud/Open)   | €2,500         | Yes          | Provided on request |
-| B             | Auditing systems (e.g., MaxAudit, MaxReg) | €1,500         | Yes          | Provided on request |
-| C             | Lightweight tools (e.g., MaxOps Layer)  | €750 (optional) | Case-based   | Provided on request |
+## Restrictions
 
-> **This fee is not a commercial transaction.**  
-> It is a structural entry marker that protects all parties, binds the system to the audit framework,  
-> and ensures that deployment cannot be revoked, misrepresented or obscured.
+- No resale, sublicensing, or concealment of system origin
+- No usage in dark web infrastructures, exploit frameworks, military operations, or authoritarian surveillance regimes
+- Forks must declare origin, version, and hash lineage
+- Violations result in automatic invalidation and audit disclosure
 
-For ETH addresses and payment verification, contact:  
-📧 [license@take-back-your-data.com](mailto:license@take-back-your-data.com)  
-🔗 Or via 1:1: [TBYD LinkedIn](https://www.linkedin.com/company/take-back-your-data)
+* * *
 
----
+## Verification & Transparency
 
-## 🔐 Hash-Based Validity
+All verifiable components are publicly documented and hashed in [HASHES.md](./HASHES.md).  
+All classification metadata is held in [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md).  
+Audit procedures may be conducted at any time by independent third parties using publicly verifiable data.
 
-This license is only valid when linked to a specific, published system hash.
+* * *
 
-- All valid hashes are listed in [`HASHES.md`](./HASHES.md)
-- The license only applies to versions whose hash has not been altered or overridden
-- In case of dispute, the hash acts as the **single source of truth**
+## Jurisdiction & Irreversibility
 
-Unauthorized operational use constitutes a breach of the structural protocol and may result in exclusion from future access and verification privileges.
+This license follows the principle of **digital structural sovereignty**.  
+No retroactive invalidation is possible.  
+All granted rights remain active unless explicitly and demonstrably violated.
 
-> “No license without a hash. No protection without activation.”
+Disputes are to be resolved under open structural licensing frameworks.  
+No exclusive jurisdiction is recognized.
 
----
+* * *
 
-## 🧠 Intent of this license
+## Contact
 
-TBYD does not offer products, services or support.  
-It offers documented, reproducible infrastructure structures.
+For license activation, technical verification, or questions regarding use:  
+[license@take-back-your-data.com](mailto:license@take-back-your-data.com)
 
-This license is not an agreement between persons – it is a **structural protocol for sovereignty.**
+* * *
 
-It protects users against:
-- external control
-- narrative manipulation
-- revocation attempts
-
-and ensures that **any deployment is verifiable, unowned, and irreversible**.
-
----
-
-## ⚖️ Governing Principles
-
-This protocol operates under the principles of digital sovereignty and is not subject to any national jurisdiction.
-
----
-
-_Last updated: 2025-04-14_  
-_Take Back Your Data (TBYD) – Structural autonomy, not contractual dependency._
+_Last updated: 2025-04-30_  
+_Take Back Your Data (TBYD) – Digital Souveränität durch Struktur, nicht durch Zustimmung._
