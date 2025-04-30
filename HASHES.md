@@ -1,15 +1,66 @@
-# 🔐 HASHES – Valid Structural Versions
+# ✅ HASHES & TIMESTAMP – FINAL PACKAGE
 
-This file lists the cryptographic hash identifiers for all valid system versions under the TBYD Structural License.
+Documented Integrity Check for Public Release – Valid as of April 30, 2025, 08:15 CET
 
-Only the exact, published versions listed below are licensed for operational use.
+---
 
-| System Name     | Version  | SHA-256 Hash |
-|-----------------|----------|--------------|
-| MaxOneOpen      | v1.0.0   | 83b1e0b5a7c10e5e5ffdbaf9d6b7c7f7d7f1d5c4f3b2a1f0e1d0c7b9a5e8f2d3 |
-| MaxOneCloud     | v1.0.0   | 5ae9e8d9f6a7c8e4f9c1d2a7b3d5e6f7d7e9b5c3a2d0f1e5f7c9b1a4e2d3c4f5 |
-| MaxAudit        | v1.0.0   | e13cf7d8a4e7c8b5d9f1e2d3c4b5a6e7d9b5c3a2d0e1f5c7b9a1d4e3f2c5b6a7 |
-| MaxReg          | v1.0.0   | 9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a |
+## 🔐 File Integrity – SHA256 Hashes
 
-_Last updated: 2025-04-14_  
-_Take Back Your Data (TBYD) – Verifiable infrastructure, not contractual dependency._
+### MaxOneOpen-final.zip  
+Hash (SHA256): `8c0cb67b8ddff8961b1e89679d81d6f3086867d606a23b77c4bf69a3a44c5500`  
+File Size: 34.1 MB  
+Origin: [https://console.filebase.com/buckets/maxoneopen-main](https://console.filebase.com/buckets/maxoneopen-main)
+
+### MaxOneCloud-final.zip  
+Hash (SHA256): `e46ac04242be4103bbe5ca1402e325d981c3a2d5ebda0abe3d3fe5eb0b83e258`  
+File Size: 28.7 MB  
+Origin: [https://console.filebase.com/buckets/maxonecloud-main](https://console.filebase.com/buckets/maxonecloud-main)
+
+### MaxAudit-final.zip  
+Hash (SHA256): `f5a0debafcbd301aff2e5ef65f76f9a482697ab8f281b950c0e634fabfed9fac`  
+File Size: 12.4 MB  
+Origin: [https://console.filebase.com/buckets/maxaudit-main](https://console.filebase.com/buckets/maxaudit-main)
+
+### MaxReg-final.zip  
+Hash (SHA256): `9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a`  
+File Size: 9.8 MB  
+Origin: [https://console.filebase.com/buckets/maxreg-main](https://console.filebase.com/buckets/maxreg-main)
+
+### MaxTune-SD-final.zip  
+Hash (SHA256): `efa5979861216bfee36d2593cef65fca74df09a4a5a25d2cd691831be8c23598`  
+File Size: 15.2 MB  
+Origin: [https://console.filebase.com/buckets/maxtune-main](https://console.filebase.com/buckets/maxtune-main)
+
+### SDG-final.zip  
+Hash (SHA256): `df1b1febfd3faf109549daa57456686053fc1812630790a022e10e9b3efee8c9`  
+File Size: 18.6 MB  
+Origin: [https://console.filebase.com/buckets/sdg-main](https://console.filebase.com/buckets/sdg-main)
+
+---
+
+## 📜 Legal Scope & Binding Nature
+
+These hashes are publicly verifiable and legally binding within the scope of the TBYD License v2.2 and Preview Addendum A.  
+Any modification, repackaging, or redistribution of these files outside the documented license path will result in immediate license invalidation.
+
+This document acts as:
+
+- A timestamped integrity proof
+- A pre-verification tool for all operators and reviewers
+- A compliance guarantee for the full release structure
+
+---
+
+## ⏱️ Timestamp (UTC+1)
+
+Issued: April 30, 2025, 08:15 CET  
+Signer: Take Back Your Data (TBYD)  
+Contact: info@take-back-your-data.com
+
+---
+
+## 🔗 Linked License Documents
+
+- [TBYD License v2.2](./LICENSE.md)
+- [Preview Addendum A (Read-Only License)](./LICENSE-Addendum-A.md)
+- [README – Main Access Page](./README.md)
