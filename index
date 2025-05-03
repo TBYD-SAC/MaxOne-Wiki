@@ -1,0 +1,34 @@
+# TBYD Systems Overview – Published & Prepared (as of May 2025)
+
+## Published Systems
+
+| System         | Version | License Class | Protection Fee | SHA256 Hash                                                        | Status                    |
+|----------------|---------|----------------|----------------|--------------------------------------------------------------------|---------------------------|
+| MaxOneOpen     | 3.4     | A              | €2,500         | 8c0cb67b8ddff8961b1e89679d81d6f3086867d606a23b77c4bf69a3a44c5500   | Released (v4.0 pending)   |
+| MaxAudit       | 1.0     | B              | €1,500         | f5a0debafcbd301aff2e5ef65f76f9a482697ab8f281b950c0e634fabfed9fac   | Released                 |
+| MaxReg         | 2.0     | B              | €1,500         | 9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a   | Released                 |
+| MaxTune        | 2.1     | B              | €1,500         | efa5979861216bfee36d2593cef65fca74df09a4a5a25d2cd691831be8c23598   | Released                 |
+| SDG            | 2.0     | B              | €1,500         | df1b1febfd3faf109549daa57456686053fc1812630790a022e10e9b3efee8c9   | Released                 |
+
+---
+
+## Prepared Systems (Not Yet Finalized)
+
+| Planned Module     | Core Scope                                                | Planned Class | Notes                            |
+|--------------------|------------------------------------------------------------|----------------|-----------------------------------|
+| MaxSuite           | OSS integration (e.g. LibreOffice, Jitsi)                 | B              | Fully conceptualized              |
+| MaxWorkRoles       | Role/permission structure without AD complexity           | B              | Architecture drafted              |
+| MaxProcess         | Form handling, workflows, approvals                        | B              | For admin-near environments       |
+| MaxBridge          | M365/Zoom integration for OSS migrations                   | B              | High demand, fully structured     |
+| MaxGovernance      | Forkability, auditability, contribution traceability       | B              | Governance logic completed        |
+| MaxUXSuite         | UX standards + ledger-based behavior                       | B              | Optional but encouraged           |
+| MaxJudicial        | Court-proof logs, legal interfaces                         | B              | Relevant for gov OSS adoption     |
+| MaxDeploy          | Targeted builds for user types                             | B              | Strategic scaling foundation      |
+
+---
+
+All systems fall under the TBYD Structural License v2.2.  
+For preview-only access, refer to LICENSE-Addendum-A.md.  
+All hash references and license validation mechanisms are hosted at:
+- IPFS: `ipfs://QmSQLfkokJg27LBqhTwNZwSxn2NdVmEvZxKQEPm6qV2gPv`
+- GitHub: `https://github.com/TBYD-Docs/index.md`
