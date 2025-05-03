@@ -1,49 +1,34 @@
-# TBYD: Index of Systems
-This document provides a structural overview of all published and prepared TBYD systems, including licensing data and hash references.
+# 📘 MaxOne-Wiki – Central Index
 
-## Published Systems
-
-| System      | Ver. | Class | Fee     | SHA256 Hash                                                    | Status                  |
-|-------------|------|-------|---------|----------------------------------------------------------------|-------------------------|
-| MaxOneOpen  | 3.4  | A     | €2,500  | `8c0cb6...44c5500`                                              | Released (v4.0 pending) |
-| MaxAudit    | 1.0  | B     | €1,500  | `f5a0de...fed9fac`                                              | Released               |
-| MaxReg      | 2.0  | B     | €1,500  | `9a846a...bd996a`                                               | Released               |
-| MaxTune     | 2.1  | B     | €1,500  | `efa597...c23598`                                               | Released               |
-| SDG         | 2.0  | B     | €1,500  | `df1b1f...ee8c9`                                                | Released               |
-
-Full hashes and verification metadata are listed below.
+**Effective Date:** April 30, 2025  
+**Issued by:** Take Back Your Data (TBYD)  
+**Contact:** info@take-back-your-data.com
 
 ---
 
-## Prepared Systems (Not Yet Finalized)
+## 🔍 Overview
 
-| Module         | Core Scope                                     | Class | Status Description               |
-|----------------|--------------------------------------------------|--------|----------------------------------|
-| MaxSuite       | OSS integration (LibreOffice, Jitsi, etc.)      | B      | Fully conceptualized             |
-| MaxWorkRoles   | Role logic without AD dependency                | B      | Architecture drafted             |
-| MaxProcess     | Form handling, workflows, approvals             | B      | For admin-near use cases         |
-| MaxBridge      | Controlled M365/Zoom integration                | B      | Fully structured, high priority  |
-| MaxGovernance  | Forkability, auditability, traceability        | B      | Governance logic completed       |
-| MaxUXSuite     | UX standards + ledger-bound behavior            | B      | Optional but encouraged          |
-| MaxJudicial    | Court-proof logs + judicial connectors          | B      | Relevant for public institutions |
-| MaxDeploy      | Market-specific deployment structuring          | B      | Strategic scaling foundation     |
+Welcome to the MaxOne-Wiki, the comprehensive documentation hub for the MaxOne suite. This index provides quick access to all essential documents related to system architecture, licensing, integrity verification, and deployment guidelines.
 
 ---
 
-All systems fall under the TBYD Structural License v2.2.  
-For preview-only access, refer to LICENSE-Addendum-A.md.  
-Hash references and validation are available at:
-- IPFS: `ipfs://QmSQLfkokJg27LBqhTwNZwSxn2NdVmEvZxKQEPm6qV2gPv`
-- GitHub: `https://github.com/TBYD-Docs/index.md`
+## 📂 Documentation Index
+
+- [README.md](./README.md): Introduction and overview of the MaxOne-Wiki.
+- [LICENSE.md](./LICENSE.md): Primary licensing terms governing the use of MaxOne systems.
+- [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md): Specific terms for preview and audit distributions.
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Classification of each system component's licensing status.
+- [HASHES.md](./HASHES.md): SHA-256 hashes and IPFS CIDs for verifying system integrity.
+- [full-validation.md](./full-validation.md): Comprehensive validation document for all system components.
+- [PAYMENT.md](./PAYMENT.md): Instructions for requesting license keys and processing payments.:contentReference[oaicite:18]{index=18}
 
 ---
 
-### 🔒 Full SHA256 Hashes
+## 🔗 Related Repositories
 
-```
-MaxOneOpen: 8c0cb67b8ddff8961b1e89679d81d6f3086867d606a23b77c4bf69a3a44c5500
-MaxAudit:   f5a0debafcbd301aff2e5ef65f76f9a482697ab8f281b950c0e634fabfed9fac
-MaxReg:     9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a
-MaxTune:    efa5979861216bfee36d2593cef65fca74df09a4a5a25d2cd691831be8c23598
-SDG:        df1b1febfd3faf109549daa57456686053fc1812630790a022e10e9b3efee8c9
-```
+- [MaxOneCloud-License](https://github.com/TBYD-SAC/MaxOneCloud-License): :contentReference[oaicite:20]{index=20}:contentReference[oaicite:22]{index=22}
+
+---
+
+_Last reviewed: April 30, 2025_  
+_Take Back Your Data – Empowering users through transparent and secure systems._
