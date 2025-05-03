@@ -1,81 +1,70 @@
-# TBYD Full License – Operational Grant of Rights
+# 📄 TBYD Structural License v2.2
 
-This license governs the use, audit, deployment, and further distribution of all officially published TBYD systems that fall under the open structural license regime as defined and versioned below.
+**Effective Date:** April 30, 2025  
+**Issued by:** Take Back Your Data (TBYD)  
+**Contact:** info@take-back-your-data.com
 
-* * *
+---
 
-## Scope
+## 🔍 Purpose
 
-This license applies to all systems explicitly listed in the current [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md).  
-No license shall be assumed for any unlisted system, regardless of its technical origin, prior preview access, or internal distribution.  
+This license governs the use, distribution, and modification of the MaxOne system components released by TBYD. It ensures that all stakeholders operate under a unified legal framework that promotes transparency, security, and compliance.
 
-Only systems that are:
-1. officially published,
-2. listed in the classification table,
-3. and supported by a structural protection fee per user key  
-are considered valid under this license.
+---
 
-* * *
+## 📦 Covered Systems
 
-## Rights Granted
+The following systems are covered under this license:
 
-Subject to the payment of the protection fee and successful verification via ETH key, the licensee is granted the following rights **per licensed system**:
+- MaxOneOpen
+- MaxOneCloud
+- MaxAudit
+- MaxReg
+- MaxTune-SD
+- SDG
 
-- Full access to all technical documentation and compiled code
-- Permission to deploy, audit, and extend the system on private or public infrastructure
-- Use of the system within legal boundaries in non-restrictive jurisdictions
-- Right to create forks under defined compliance and hash-verification rules
-- Right to publish public benchmarks, comparisons, and compatibility reports
+Each system's specific version, SHA-256 hash, and IPFS CID are detailed in the [HASHES.md](./HASHES.md) file.
 
-* * *
+---
 
-## License Activation & Validation
+## ⚖️ License Terms
 
-A valid license exists only if:
+1. **Usage Rights:**  
+   - You are granted a non-exclusive, non-transferable license to use the covered systems for evaluation, testing, and development purposes.
 
-- The declared user key has successfully transmitted the required protection fee
-- The system version matches the declared cryptographic hash as listed in [HASHES.md](./HASHES.md)
-- The system is listed in [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md) with a valid version number
-- The audit record matches the deployment version
+2. **Distribution:**  
+   - Redistribution of the systems, in whole or in part, is prohibited without prior written consent from TBYD.
 
-Licensing is **modular**: each system requires its own license entry and hash confirmation.
+3. **Modification:**  
+   - Modifications are allowed for personal use. Distribution of modified versions requires prior approval from TBYD.
 
-* * *
+4. **Compliance:**  
+   - All users must adhere to the terms specified in this license and any associated addendums.
 
-## Restrictions
+---
 
-- No resale, sublicensing, or concealment of system origin
-- No usage in dark web infrastructures, exploit frameworks, military operations, or authoritarian surveillance regimes
-- Forks must declare origin, version, and hash lineage
-- Violations result in automatic invalidation and audit disclosure
+## 🔒 Integrity Verification
 
-* * *
+To ensure the authenticity and integrity of the systems:
 
-## Verification & Transparency
+- All official releases are accompanied by a SHA-256 hash.
+- IPFS CIDs are provided for decentralized verification.
+- Refer to the [full-validation.md](./full-validation.md) document for comprehensive validation details.
 
-All verifiable components are publicly documented and hashed in [HASHES.md](./HASHES.md).  
-All classification metadata is held in [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md).  
-Audit procedures may be conducted at any time by independent third parties using publicly verifiable data.
+---
 
-* * *
+## 📄 Additional Documents
 
-## Jurisdiction & Irreversibility
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Details the classification and licensing status of each system component.
+- [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md): Specifies terms for preview and audit distributions.
 
-This license follows the principle of **digital structural sovereignty**.  
-No retroactive invalidation is possible.  
-All granted rights remain active unless explicitly and demonstrably violated.
+---
 
-Disputes are to be resolved under open structural licensing frameworks.  
-No exclusive jurisdiction is recognized.
+## 🛡️ Disclaimer
 
-* * *
+TBYD provides the systems "as-is" without any warranties. TBYD is not liable for any damages arising from the use or inability to use the systems.
 
-## Contact
+---
 
-For license activation, technical verification, or questions regarding use:  
-[license@take-back-your-data.com](mailto:license@take-back-your-data.com)
-
-* * *
-
-_Last updated: 2025-04-30_  
-_Take Back Your Data (TBYD) – Digital Souveränität durch Struktur, nicht durch Zustimmung._
+_Last reviewed: April 30, 2025_  
+_Take Back Your Data – Empowering users through transparent and secure systems._
