@@ -1,62 +1,61 @@
-# 💳 PAYMENT.md – License Key Request & Payment Process
+# PAYMENT.md – ETH-Based Activation & Structural Licensing
 
-**Effective Date:** April 30, 2025  
-**Issued by:** Take Back Your Data (TBYD)  
-**Contact:** info@take-back-your-data.com
+**This document outlines the only valid procedure to activate a full system license under the TBYD Structural License v2.2.**
 
 ---
 
-## 🔐 License Key Request Process
+## 1. Protection Fee – Not a Price, Not a Purchase
 
-To obtain a license key for MaxOne systems, please follow these steps:
-
-1. **Review the License:**  
-   - Carefully read the [TBYD License v2.2](./LICENSE.md) and [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md) to understand the terms and conditions.
-
-2. **Submit a License Request:**  
-   - Send an email to `license@take-back-your-data.com` with the subject line: `License Key Request – [Your Organization Name]`.
-   - Include the following information in your email:
-     - Organization Name
-     - Contact Person Name
-     - Contact Email Address
-     - Intended Use Case (e.g., Evaluation, Audit, Production)
-     - Systems Requested (e.g., MaxOneOpen, MaxAudit)
-
-3. **Await Confirmation:**  
-   - Our team will review your request and respond within 3-5 business days with further instructions.
+Every system released under the TBYD license regime requires a one-time structural protection fee.  
+This fee is not a commercial transaction. It serves as a verifiable signal of responsibility and integrity.
 
 ---
 
-## 💰 Payment Process
+## 2. Accepted Payment Method
 
-Upon approval of your license request, follow these steps to complete the payment:
+Only **Ethereum (ETH)** is accepted.  
+No alternative methods (e.g. PayPal, credit card, fiat bank transfers) are supported.
 
-1. **Invoice Issuance:**  
-   - You will receive an invoice detailing the license fees and payment instructions.
-
-2. **Payment Methods:**  
-   - Payments can be made via bank transfer or other methods as specified in the invoice.
-
-3. **Payment Confirmation:**  
-   - After completing the payment, send a confirmation email to `payments@take-back-your-data.com` with the payment details.
-
-4. **License Key Delivery:**  
-   - Upon receipt and verification of payment, your license key(s) will be issued and sent to your registered email address.
+**Payments must be made from the verified key** that will be linked to the system access.
 
 ---
 
-## 📄 Additional Information
+## 3. Activation Process
 
-- **License Classification:**  
-  - Refer to [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md) for details on the classification of each system component.
-
-- **Hash Verification:**  
-  - Verify the integrity of your downloads using the hashes provided in [HASHES.md](./HASHES.md).
-
-- **Full Validation Document:**  
-  - Access the comprehensive validation document at [full-validation.md](./full-validation.md).
+1. **Contact** `license@take-back-your-data.com` and request access to a specific system.
+2. You will receive:
+   - A temporary ETH address for your transaction
+   - The current protection fee per system
+   - The required hash for verification
+3. **Transfer the exact amount in ETH** from your declared key.
+4. After blockchain confirmation, you will receive:
+   - Access credentials for IPFS-based download
+   - System-specific usage rights per license class
+   - A signed validation statement (optional)
 
 ---
 
-_Last reviewed: April 30, 2025_  
-_Take Back Your Data – Empowering users through transparent and secure systems._
+## 4. No Receipts – No Invoices – No Contracts
+
+TBYD does **not issue invoices or commercial receipts**.  
+This is not a financial product. It is a **structural participation mechanism**.
+
+You are not buying access. You are claiming responsibility.
+
+---
+
+## 5. Public Integrity
+
+All transfers are verifiable on-chain.  
+All key activations are linked to immutable hash references.  
+No personal data is processed. No accounts are created. No tracking.
+
+---
+
+## Final Notes
+
+- You may only access and use the licensed system after verified payment  
+- Forks require transparent declaration of origin and version hash  
+- Violations of the license terms will void all access rights
+
+**Contact:** `license@take-back-your-data.com`
