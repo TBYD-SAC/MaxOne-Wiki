@@ -1,67 +1,55 @@
-# MaxOneOpen: Public Preview
+# 📘 MaxOne-Wiki – Knowledge Base for the MaxOne Ecosystem
 
-This repository provides the **public preview** of MaxOneOpen – a fully documented, sovereign AI architecture.  
-It includes structural blueprints, system documentation, and verified benchmark comparisons.
-
----
-
-📜 **Legal Notice**  
-This repository is accessible under the  
-[Preview License Addendum A (Read-Only)](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md).  
-
-Implementation, deployment, or redistribution **is strictly prohibited**  
-without prior acquisition of the [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md).
-
-Accessing this repository constitutes agreement to the preview terms.  
-Violations will result in permanent exclusion from the MaxOne ecosystem.
+**Effective Date:** April 30, 2025  
+**Issued by:** Take Back Your Data (TBYD)  
+**Contact:** info@take-back-your-data.com
 
 ---
 
-## What is MaxOneOpen?
+## 🔍 Overview
 
-**MaxOneOpen** is a fully modular, cloud-independent AI architecture.  
-It is designed to replace centralized AI frameworks structurally – not commercially.  
-This preview allows public inspection, verification, and benchmarking.
-
-**Performance level:** Comparable to GPT-4  
-**Dependencies:** None (no cloud, no vendor lock-in)  
-**Status:** Fully documented, ready for verified implementation under license
+MaxOne-Wiki serves as the comprehensive documentation hub for the MaxOne suite, encompassing systems such as MaxOneOpen, MaxOneCloud, MaxAudit, MaxReg, MaxTune-SD, and SDG. This repository provides detailed information on system architectures, licensing, integrity verification, and deployment guidelines.
 
 ---
 
-## Preview Access – What You Can and Cannot Do
+## 📂 Repository Contents
 
-| Action                         | Permitted under Addendum A? |
-|--------------------------------|------------------------------|
-| Read and analyze               | ✅ Yes                      |
-| Share or discuss publicly      | ✅ Yes (with license link) |
-| Deploy or integrate            | ❌ No                      |
-| Modify or fork                 | ❌ No                      |
-| Use for commercial projects    | ❌ No                      |
-
-To obtain usage rights, please complete the license process under [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md).
+- [LICENSE.md](./LICENSE.md): Primary licensing terms governing the use of MaxOne systems.
+- [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md): Specific terms for preview and audit distributions.
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Classification of each system component's licensing status.
+- [HASHES.md](./HASHES.md): SHA-256 hashes and IPFS CIDs for verifying system integrity.
+- [full-validation.md](./full-validation.md): Comprehensive validation document for all system components.
+- [PAYMENT.md](./PAYMENT.md): Instructions for requesting license keys and processing payments.:contentReference[oaicite:17]{index=17}
 
 ---
 
-## Related Links
+## 🔗 Related Repositories
 
-- 🔐 [Preview License Addendum A](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE-Addendum-A.md)  
-- 📜 [Full License v2.2 – Implementation Required](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/LICENSE.md)  
-- 💡 [Why Preview Exists – Legal & Strategic Context](https://github.com/TBYD-SAC/MaxOne-Wiki/wiki/License-and-Access)  
-- 📩 Contact: info@take-back-your-data.com
+- [MaxOneCloud-License](https://github.com/TBYD-SAC/MaxOneCloud-License): :contentReference[oaicite:19]{index=19}:contentReference[oaicite:21]{index=21}
 
 ---
 
-🔐 **Verify Document Integrity**  
-All preview and release files are covered by cryptographic SHA256 validation.  
-The whitepaper and structural documentation are timestamped and hashed.  
-📎 [See HASHES.md for public verification](https://github.com/TBYD-SAC/MaxOne-Wiki/blob/main/HASHES.md)
+## 🛡️ Integrity Verification
 
-📘 Technical Whitepaper  
-[View as Markdown](./whitepaper-maxoneopen.md) – Final architecture version.  
-📎 Integrity: [HASHES.md](./HASHES.md)
+:contentReference[oaicite:23]{index=23}:contentReference[oaicite:25]{index=25}
 
 ---
 
-© 2025 – Take Back Your Data (TBYD)  
-Senior Advisory Circle · All rights reserved under open structure licensing
+## 📄 Licensing
+
+:contentReference[oaicite:27]{index=27}:contentReference[oaicite:29]{index=29}
+
+---
+
+## 📬 Contact
+
+For inquiries, please contact:
+
+- **General Information:** info@take-back-your-data.com
+- **License Requests:** license@take-back-your-data.com
+- **Payments:** payments@take-back-your-data.com
+
+---
+
+_Last reviewed: April 30, 2025_  
+_Take Back Your Data – Empowering users through transparent and secure systems._
