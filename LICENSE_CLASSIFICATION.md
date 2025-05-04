@@ -2,7 +2,7 @@
 
 **Effective Date:** May 4, 2025  
 **Issued by:** Take Back Your Data (TBYD)  
-**Contact:** info@take-back-your-data.com
+**Contact:** license@take-back-your-data.com
 
 ---
 
@@ -14,23 +14,23 @@ This document classifies the licensing status and structural protection requirem
 
 ## 📦 System Components and Licensing
 
-| System          | Version | License Type       | Addendum Reference | License Class | Protection Fee     | Notes                                          |
-|------------------|---------|--------------------|---------------------|----------------|---------------------|-------------------------------------------------|
-| MaxOneOpen       | v4.1    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        | Fully licensed system with Preview Access       |
-| MaxOneOpen       | v3.4    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        | Preview release, activation required            |
-| MaxOneCloud      | v1.0    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        | Preview release                                 |
-| MaxAudit         | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Audit package                                   |
-| MaxReg           | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Preview release                                 |
-| MaxTune-SD       | v2.1    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Preview release                                 |
-| SDG              | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Preview release                                 |
-| MaxSuite         | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Application integration (planned)              |
-| MaxWorkRoles     | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Role-based logic (planned)                     |
-| MaxProcess       | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Flow control (planned)                         |
-| MaxBridge        | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Compatibility proxy (planned)                  |
-| MaxGovernance    | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Structural fork control (planned)              |
-| MaxUXSuite       | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | UI/UX layer (planned)                          |
-| MaxJudicial      | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Legal audit layer (planned)                    |
-| MaxDeploy        | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        | Operational rollout (planned)                  |
+| System          | Version | License Type       | Addendum Reference | License Class | Protection Fee     |
+|------------------|---------|--------------------|---------------------|----------------|---------------------|
+| MaxOneOpen       | v4.1    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxOneOpen       | v3.4    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxOneCloud      | v1.0    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxAudit         | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxReg           | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxTune-SD       | v2.1    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| SDG              | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxSuite         | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxWorkRoles     | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxProcess       | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxBridge        | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxGovernance    | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxUXSuite       | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxJudicial      | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxDeploy        | –       | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
 
 ---
 
