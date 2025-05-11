@@ -16,30 +16,39 @@ This license governs the use, distribution, and modification of the MaxOne syste
 
 The following systems are covered under this license:
 
-- MaxOneOpen
-- MaxOneCloud
-- MaxAudit
-- MaxReg
-- MaxTune-SD
-- SDG
+- MaxOneOpen  
+- MaxOneCloud  
+- MaxAudit  
+- MaxReg  
+- MaxTune-SD  
+- SDG  
+- MaxDeploy  
+- MaxBridge  
+- MaxTreaty  
+- MaxGouvernance  
+- MaxSuite  
+- MaxWorkRoles  
+- MaxProcess  
+- MaxJudical  
+- MaxUXSuite  
 
-Each system's specific version, SHA-256 hash, and IPFS CID are detailed in the [HASHES.md](./HASHES.md) file.
+Each system’s specific version, SHA-256 hash, and IPFS CID are listed in the [HASHES.md](./HASHES.md) file.
 
 ---
 
 ## ⚖️ License Terms
 
 1. **Usage Rights:**  
-   - You are granted a non-exclusive, non-transferable license to use the covered systems for evaluation, testing, and development purposes.
+   You are granted a non-exclusive, non-transferable license to use the covered systems for evaluation, testing, and development purposes.
 
 2. **Distribution:**  
-   - Redistribution of the systems, in whole or in part, is prohibited without prior written consent from TBYD.
+   Redistribution of the systems, in whole or in part, is prohibited without prior written consent from TBYD.
 
 3. **Modification:**  
-   - Modifications are allowed for personal use. Distribution of modified versions requires prior approval from TBYD.
+   Modifications are allowed for personal use. Distribution of modified versions requires prior approval from TBYD.
 
 4. **Compliance:**  
-   - All users must adhere to the terms specified in this license and any associated addendums.
+   All users must adhere to the terms specified in this license and any associated addendums.
 
 ---
 
@@ -55,7 +64,7 @@ To ensure the authenticity and integrity of the systems:
 
 ## 📄 Additional Documents
 
-- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Details the classification and licensing status of each system component.
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Details the classification and licensing status of each system component.  
 - [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md): Specifies terms for preview and audit distributions.
 
 ---
@@ -66,5 +75,5 @@ TBYD provides the systems "as-is" without any warranties. TBYD is not liable for
 
 ---
 
-_Last reviewed: April 30, 2025_  
+_Last reviewed: May 11, 2025_  
 _Take Back Your Data – Empowering users through transparent and secure systems._
