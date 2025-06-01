@@ -16,6 +16,8 @@ This document classifies the licensing status and structural protection requirem
 
 | System            | Version | License Type       | Addendum Reference | License Class | Protection Fee     |
 |-------------------|---------|--------------------|---------------------|----------------|---------------------|
+| MaxCoder          | v1.6    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxComposer       | v1.5    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
 | MaxOneOpen        | v4.1    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
 | MaxOneOpen        | v3.4    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
 | MaxOneCloud       | v1.0    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
@@ -57,5 +59,6 @@ All fees are payable once, from a user-bound ETH key, as outlined in [PAYMENT.md
 
 ---
 
-_Last reviewed: May 11, 2025_  
+_Last reviewed: June 1, 2025_  
+_Amended to include MaxCoder v1.6 and MaxComposer v1.5 under Class B protection._  
 _Take Back Your Data – Empowering users through transparent and secure systems._
