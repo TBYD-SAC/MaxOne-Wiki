@@ -1,79 +1,64 @@
-# 📄 TBYD Structural License v2.2
+# 📘 LICENSE_CLASSIFICATION.md
 
-**Effective Date:** April 30, 2025  
+**Effective Date:** May 11, 2025  
 **Issued by:** Take Back Your Data (TBYD)  
-**Contact:** info@take-back-your-data.com
+**Contact:** license@take-back-your-data.com
 
 ---
 
 ## 🔍 Purpose
 
-This license governs the use, distribution, and modification of the MaxOne system components released by TBYD. It ensures that all stakeholders operate under a unified legal framework that promotes transparency, security, and compliance.
+This document classifies the licensing status and structural protection requirements of each system component within the MaxOne suite. It includes applicable license types, relevant addendums, and the assigned license class (A–C) under the TBYD Structural License regime.
 
 ---
 
-## 📦 Covered Systems
+## 📦 System Components and Licensing
 
-The following systems are covered under this license:
-
-- MaxOneOpen  
-- MaxOneCloud  
-- MaxAudit  
-- MaxReg  
-- MaxTune-SD  
-- SDG  
-- MaxDeploy  
-- MaxBridge  
-- MaxTreaty  
-- MaxGouvernance  
-- MaxSuite  
-- MaxWorkRoles  
-- MaxProcess  
-- MaxJudical  
-- MaxUXSuite  
-
-Each system’s specific version, SHA-256 hash, and IPFS CID are listed in the [HASHES.md](./HASHES.md) file.
-
----
-
-## ⚖️ License Terms
-
-1. **Usage Rights:**  
-   You are granted a non-exclusive, non-transferable license to use the covered systems for evaluation, testing, and development purposes.
-
-2. **Distribution:**  
-   Redistribution of the systems, in whole or in part, is prohibited without prior written consent from TBYD.
-
-3. **Modification:**  
-   Modifications are allowed for personal use. Distribution of modified versions requires prior approval from TBYD.
-
-4. **Compliance:**  
-   All users must adhere to the terms specified in this license and any associated addendums.
+| System            | Version | License Type       | Addendum Reference | License Class | Protection Fee     |
+|-------------------|---------|--------------------|---------------------|----------------|---------------------|
+| MaxCoder          | v1.6    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxComposer       | v1.5    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxOneOpen        | v4.1    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxOneOpen        | v3.4    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxOneCloud       | v1.0    | TBYD License v2.2  | Addendum A          | A              | €2,500 (ETH)        |
+| MaxAudit          | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxReg            | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxTune-SD        | v2.1    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| SDG               | v2.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxDeploy         | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxBridge         | v1.2    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxTreaty         | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxGouvernance    | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxSuite          | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxWorkRoles      | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxProcess        | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxJudical        | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
+| MaxUXSuite        | v1.0    | TBYD License v2.2  | Addendum A          | B              | €1,500 (ETH)        |
 
 ---
 
-## 🔒 Integrity Verification
+## 🏷️ License Classes
 
-To ensure the authenticity and integrity of the systems:
+- **Class A**: Full infrastructure systems – structural protection fee: **€2,500 (ETH)**
+- **Class B**: Modular function layers – protection fee: **€1,500 (ETH)**
+- **Class C**: Reserved – **currently unassigned** (fee level: €750)
 
-- All official releases are accompanied by a SHA-256 hash.
-- IPFS CIDs are provided for decentralized verification.
-- Refer to the [full-validation.md](./full-validation.md) document for comprehensive validation details.
+All systems are covered by the TBYD License v2.2 and may additionally be inspected and evaluated at any time under Addendum A (Preview-Only License).
 
----
-
-## 📄 Additional Documents
-
-- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md): Details the classification and licensing status of each system component.  
-- [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md): Specifies terms for preview and audit distributions.
+All fees are payable once, from a user-bound ETH key, as outlined in [PAYMENT.md](./PAYMENT.md).
 
 ---
 
-## 🛡️ Disclaimer
+## 🔗 Related Documents
 
-TBYD provides the systems "as-is" without any warranties. TBYD is not liable for any damages arising from the use or inability to use the systems.
+- [TBYD License v2.2](./LICENSE.md)  
+- [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md)  
+- [HASHES.md](./HASHES.md)  
+- [full-validation.md](./full-validation.md)  
+- [PAYMENT.md](./PAYMENT.md)
 
 ---
 
-_Last reviewed: May 11, 2025_  
+_Last reviewed: June 1, 2025_  
+_Amended to include MaxCoder v1.6 and MaxComposer v1.5 under Class B protection._  
 _Take Back Your Data – Empowering users through transparent and secure systems._
