@@ -1,0 +1,114 @@
+system: MaxOneOpen
+version: 4.1
+release_date: 2025-04-30
+maintainer: TBYD Core Review Team
+cid: bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e
+bundle: maxoneopen-v4.1.zip
+
+infrastructure:
+  - id: maxoneopen
+    name: MaxOneOpen Core Infrastructure
+    version: v4.1
+    sha256: 32f4d7a65e2c68d8d59cb81ecb7bff99a5e6a46cb9bc15e8589301571dd7c758
+    cid: bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e
+
+  - id: maxonecloud
+    name: MaxOneCloud Infrastructure Layer
+    version: v1.0
+    sha256: e46ac04242be4103bbe5ca1402e325d981c3a2d5ebda0abe3d3fe5eb0b83e258
+    cid: bafybeigdfotqukuuprkdcc3t57nbyvkbvwde6mkwo4srpbdaujs2rkqzq4
+
+subsystems:
+  - id: maxaudit
+    name: MaxAudit
+    version: v1.0
+    sha256: f5a0debafcbd301aff2e5ef65f76f9a482697ab8f281b950c0e634fabfed9fac
+    cid: bafybeigxajv2rj5iewe2w6ynqu6xlnklvfclrcwgmjbebwzjfyelmcyku4
+
+  - id: maxreg
+    name: MaxReg
+    version: v2.0
+    sha256: 9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a
+    cid: bafybeibstpno5rwrxuor5dsyzwzzp7omgt3vyqkfpexd447nkk3343vnby
+
+  - id: maxtreaty
+    name: MaxTreaty
+    version: v1.0
+    sha256: 864dba1c0f207dcc8985dc7d953169c56ee2637a638e17b174f832c371d58a92
+    cid: bafybeienvm2acix65xotrox7ylso43bmsz2atxeij3ffxvbjxzehszw5hq
+
+  - id: maxbridge
+    name: MaxBridge
+    version: v1.2
+    sha256: e43e82ae9a4401a1a3582446224743d9a23817ed04e3598416309ce8bc75e08f
+    cid: bafybeiausa4foevxk7jhmjei3cyoapmlqj63tovjd2exnpku5gdz4vcqda
+
+  - id: maxdeploy
+    name: MaxDeploy
+    version: v1.0
+    sha256: 3254244c4c98c871a415da12485a9b1dcba91e5124539aa1815aacb0291b410c
+    cid: bafybeie4hqnd6fcaimqtwxc4ztj54lmmkxbix5thjx4xhkmtaxccrfn44i
+
+  - id: maxsuite
+    name: MaxSuite
+    version: v1.0
+    sha256: 496bf9fc193e7c3907454f1fc5d88c4e26776ec2dd5833479b40c0fcd7b07384
+    cid: bafybeiaecrd32ll3bud24nbpv527ecd4tlm76vixd6emr3nisv6gqelpqy
+
+  - id: maxworkroles
+    name: MaxWorkRoles
+    version: v1.0
+    sha256: 93451a2b93b84e72b3e097aca288879ce914ae77e3e9401fb16e1304b6aa261a
+    cid: bafybeib2e6kehjojahwmvcp75ljq7vmo2357q6juzuzgxg4eibpewf56ei
+
+  - id: maxprocess
+    name: MaxProcess
+    version: v1.0
+    sha256: 6a04056566c0463f7c8b9cd48c6da483bc6c3266fafd6126d2e4854366d2ad17
+    cid: bafybeiay4irurfajtit4uqtxzuidtfmfpa67djemw6m7wv3yxampnxdy3y
+
+  - id: maxjudicial
+    name: MaxJudicial
+    version: v1.0
+    sha256: 18c7fe989dbd0d946d7ef81d3493440045abb3012ea131188bc4a68c3ebd8f83
+    cid: bafybeietkj75rr676slafbxizehnjnqzcb2q4cxt5ymjbyyo4t6napcrcq
+
+  - id: maxuxsuite
+    name: MaxUXSuite
+    version: v1.0
+    sha256: 3be7019dbe72ff4c09915be06714bdfa4d784028464d68c81eb2610f0f851167
+    cid: bafybeifoxz2wzq6go5yaxwkn425ijztgdjqeezr7emlutwrnnacd5ye3t4
+
+  - id: maxcoder
+    name: MaxCoder
+    version: v1.0
+    sha256: c1a135186fa6ff52c41f0d703189ef10d18608e4fe7a1a7a97fd7e7f6e5f70aa
+    cid: bafybeicuk2vrmlcw2aa3lrb73zbd2xepxknutnzlnflhdue4kw6w5l6kwq
+
+  - id: maxcomposer
+    name: MaxComposer
+    version: v1.0
+    sha256: 0e5899ad32791f9e8d35073393f4eb1a9278275d10f3466b0ccfc37756bc77c5
+    cid: bafybeifpbry5fkh4seuayhy4rjugo2ld2q636xc2vhsiqbz4gzghox4joq
+
+  - id: maxtune
+    name: MaxTune-SD
+    version: v2.1
+    sha256: efa5979861216bfee36d2593cef65fca74df09a4a5a25d2cd691831be8c23598
+    cid: bafybeihu6mvjhvax6eu24gmfa3tt2m4m3ml7yuvkuln47slmh6kx42uhgm
+
+  - id: sdg
+    name: Sustainable Digital Governance Capsule (SDG)
+    version: v2.0
+    sha256: df1b1febfd3faf109549daa57456686053fc1812630790a022e10e9b3efee8c9
+    cid: bafybeigojbmnon2icahk3qaxmx2ihwfk2te7iungdanyvhcyotht6taeo4
+
+licenses:
+  - filename: LICENSE.md
+  - filename: LICENSE-Addendum-A.md
+  - filename: LICENSE_CLASSIFICATION.md
+
+notes:
+  - All hashes verified against published audit records.
+  - CID entries correspond to IPFS-preview-only scope under Addendum A.
+  - No placeholder content – all entries are production-auditable.
