@@ -1,0 +1,30 @@
+# ✅ SHA256 Checksum List for MaxOneOpen v4.1 Capsule
+
+This file lists the SHA256 checksums of all capsule components in this release.  
+It serves as the **mandatory hash reference** for any verification prior to interpretation or integration.
+
+```
+32f4d7a65e2c68d8d59cb81ecb7bff99a5e6a46cb9bc15e8589301571dd7c758  maxoneopen-v4.1.zip
+f5a0debafcbd301aff2e5ef65f76f9a482697ab8f281b950c0e634fabfed9fac  maxaudit
+9a846a2ba34c1761c748d6293074581ef0c1648fb2d3ba17d671c3df75bd996a  maxreg
+864dba1c0f207dcc8985dc7d953169c56ee2637a638e17b174f832c371d58a92  maxtreaty
+e43e82ae9a4401a1a3582446224743d9a23817ed04e3598416309ce8bc75e08f  maxbridge
+3254244c4c98c871a415da12485a9b1dcba91e5124539aa1815aacb0291b410c  maxdeploy
+496bf9fc193e7c3907454f1fc5d88c4e26776ec2dd5833479b40c0fcd7b07384  maxsuite
+93451a2b93b84e72b3e097aca288879ce914ae77e3e9401fb16e1304b6aa261a  maxworkroles
+6a04056566c0463f7c8b9cd48c6da483bc6c3266fafd6126d2e4854366d2ad17  maxprocess
+18c7fe989dbd0d946d7ef81d3493440045abb3012ea131188bc4a68c3ebd8f83  maxjudicial
+3be7019dbe72ff4c09915be06714bdfa4d784028464d68c81eb2610f0f851167  maxuxsuite
+c1a135186fa6ff52c41f0d703189ef10d18608e4fe7a1a7a97fd7e7f6e5f70aa  maxcoder
+0e5899ad32791f9e8d35073393f4eb1a9278275d10f3466b0ccfc37756bc77c5  maxcomposer
+efa5979861216bfee36d2593cef65fca74df09a4a5a25d2cd691831be8c23598  maxtune
+df1b1febfd3faf109549daa57456686053fc1812630790a022e10e9b3efee8c9  sdg
+e46ac04242be4103bbe5ca1402e325d981c3a2d5ebda0abe3d3fe5eb0b83e258  maxonecloud
+```
+
+---
+
+📌 All hashes originate from `manifest.yaml` and are **cryptographically bound** to their respective IPFS CIDs.  
+Use this file for any **automated check** or **offline validation** process.
+
+**⚠️ Warning:** Any mismatch during verification **invalidates preview access rights**.
