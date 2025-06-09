@@ -2,69 +2,87 @@
 
 **Release Date:** April 30, 2025  
 **Maintainer:** TBYD Core Review Team  
-**System Version:** `v4.1`  
-**System CID:** `bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e`  
-**License Status:** Preview-Only under Addendum A (no operational rights)
+**Version Tag:** `v4.1`  
+**System CID:** `bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e`
 
 ---
 
-## 🔍 Release Overview
+## 🔍 Overview
 
-This folder contains the **structurally validated system capsule** of MaxOneOpen v4.1.
+This directory contains the **official, verifiably licensed release** of MaxOneOpen v4.1.
 
-All components are verified using CID and SHA256 mappings.  
-**No executable backend or internal documentation** is included.
+It represents the final structural configuration of:
+- MaxOneOpen infrastructure
+- Associated governance and validation capsules
+- Audit-aligned subsystem architecture
 
-All logic is encapsulated, license-bound, and auditable.
+The release is published under **preview-only license terms** and must not be used in any operational or testing context without activation.
 
-> 🔒 This is a release capsule — not a deployment package.
-
----
-
-## 📁 Files in This Folder
-
-| File                  | Description                                                 |
-|-----------------------|-------------------------------------------------------------|
-| `manifest.yaml`       | Canonical list of modules, hashes, and IPFS CIDs            |
-| `maxoneopen-v4.1.zip` | Read-only system capsule (encapsulated YAML logic only)     |
-| `checksum.sha256`     | Optional CI-compatible hashlist (duplicate from manifest)   |
+> 📌 This release does **not contain any documentation**.  
+> All logic is encapsulated, verifiable, and structurally isolated.
 
 ---
 
-## 🔐 Verifiability & Proof Model
+## 📁 Included Files in This Folder
 
-Each module listed in `manifest.yaml` is:
-- **Hash-validated** (SHA256)
-- **CID-resolved** (IPFS)
-- **Structurally frozen** (form-level capsule, not plaintext)
-- **Preview-classified** (non-executable)
-
-The hash-CID pair serves as **proof of identity and boundary**.
-
-**Manifest is the source of truth**. All files outside it are informational only.
+| File                  | Description                                                |
+|-----------------------|------------------------------------------------------------|
+| `manifest.yaml`       | Canonical list of modules, SHA256 hashes, and IPFS CIDs   |
+| `maxoneopen-v4.1.zip` | Encapsulated system capsule (read-only stack)              |
+| `checksum.sha256`     | Hashlist for CI or independent validation tooling          |
 
 ---
 
-## ⚠️ Compliance & Governance
+## 🔐 Verifiability & Proof Chain
 
-This release is governed exclusively by:
+All components listed in `manifest.yaml` are:
+- **Structurally encapsulated**
+- **SHA256-hashed and CID-resolved**
+- **Cross-referenced under audit**
+
+Each module can and must be verified using:
+- `manifest.yaml` as structural authority
+- Any local SHA256/CID tooling
+- References in `HASHES.md` and `full-validation.md`
+
+> ✅ **Verification Required:**  
+> No content in this release should be interpreted or applied without first verifying all components.
+
+---
+
+## 🚫 Preview-Only Enforcement
+
+This release is classified under:
+
 - [`LICENSE.md`](../LICENSE.md)
 - [`LICENSE-Addendum-A.md`](../LICENSE-Addendum-A.md)
 - [`LICENSE_CLASSIFICATION.md`](../LICENSE_CLASSIFICATION.md)
 
-> Any form of operational use, silent testing, or structural derivation  
-> **without activation license** constitutes breach of license.
+> ⚠️ **No execution. No API use. No system integration.**  
+> Preview-only access is read-only and audit-restricted.  
+> All backend, runtime, and payload functions are **intentionally excluded**.  
+> Silent or experimental usage without activation constitutes a breach of structural license.
 
 ---
 
-## 📎 Linked Control Files
+## 🔒 Security & Integrity Statement
 
-- [`HASHES.md`](../HASHES.md) – Global hash registry  
-- [`full-validation.md`](../full-validation.md) – Audit checkpoint  
-- [`PAYMENT.md`](../PAYMENT.md) – Activation and license class logic
+> ❗ **Important Notice:**  
+> This release contains **no user documentation, source code, application logic, or deployment tools**.  
+> It is a fully encapsulated structural representation of the system – machine-auditable only.  
+> Any attempt to reconstruct behavior or derive use cases from this preview package is strictly prohibited.
+
+---
+
+## 📎 Linked Documents
+
+- [`HASHES.md`](../HASHES.md) – Central integrity registry  
+- [`full-validation.md`](../full-validation.md) – Formal audit validation (CTO-reviewed)  
+- [`PAYMENT.md`](../PAYMENT.md) – Activation licensing requirements
 
 ---
 
 **TBYD – Take Back Your Data**  
 📬 info@take-back-your-data.com  
-🌐 [IPFS Mirror (if applicable)](https://ipfs.io/ipfs/bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e)
+🌐 Optional IPFS Gateway:  
+`https://ipfs.io/ipfs/bafybeibhfmggzyesjmewn6pkutvit6w4m6fdkkwjjmttkfgfyu23i46w6e`
