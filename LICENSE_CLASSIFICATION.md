@@ -8,7 +8,8 @@
 
 ## 🔍 Purpose
 
-This document classifies the licensing status and structural protection requirements of each system component within the MaxOne suite. It includes applicable license types, relevant addendums, and the assigned license class (A–C) under the TBYD Structural License regime.
+This document classifies the licensing status and structural protection requirements of each system component within the MaxOne suite.  
+It defines the applicable license types, related addendums, and assigned license class (A–D) under the TBYD Structural License regime.
 
 ---
 
@@ -39,13 +40,34 @@ This document classifies the licensing status and structural protection requirem
 
 ## 🏷️ License Classes
 
-- **Class A**: Full infrastructure systems – structural protection fee: **€2,500 (ETH)**
-- **Class B**: Modular function layers – protection fee: **€1,500 (ETH)**
-- **Class C**: Reserved – **currently unassigned** (fee level: €750)
+- **Class A**:  
+  Full structural infrastructures. Protected at system level.  
+  Fee: **€2,500 (ETH)** per activation.  
+  _Protects the system architecture and its cryptographic traceability._
 
-All systems are covered by the TBYD License v2.2 and may additionally be inspected and evaluated at any time under Addendum A (Preview-Only License).
+- **Class B**:  
+  Functional modules, logic layers, and specialized components.  
+  Fee: **€1,500 (ETH)** per activation.  
+  _Protects the modular integrity and external rule injection boundaries._
 
-All fees are payable once, from a user-bound ETH key, as outlined in [PAYMENT.md](./PAYMENT.md).
+- **Class C**:  
+  Reserved for future core-lite utilities or interop bridges.  
+  Fee level: **€750 (ETH)** _(not in use yet)_
+
+- **Class D**:  
+  End-user instance activations (natural persons).  
+  Fee: **€10 (ETH)** flat.  
+  _Protects the operator instance – not the code base – by issuing public traceability and sovereign claim._
+
+Each license activation (any class) is one-time, non-transferable, and strictly bound to the submitted ETH key and declared use scope, as outlined in [PAYMENT.md](./PAYMENT.md).
+
+---
+
+## 📌 Additional Notes
+
+- All systems may be previewed and inspected under [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md).  
+- Structural protection is not tied to code secrecy, but to integrity, sovereignty, and legal operability.
+- Product-class specific conditions (e.g., Class D audits or governance inclusion) may apply without altering the base license.
 
 ---
 
@@ -59,6 +81,6 @@ All fees are payable once, from a user-bound ETH key, as outlined in [PAYMENT.md
 
 ---
 
-_Last reviewed: June 1, 2025_  
-_Amended to include MaxCoder v1.6 and MaxComposer v1.5 under Class B protection._  
-_Take Back Your Data – Empowering users through transparent and secure systems._
+_Last reviewed: June 14, 2025_  
+_Amended to include License Class D for individual sovereignty operators._  
+_Take Back Your Data – Protecting systems, empowering operators._
