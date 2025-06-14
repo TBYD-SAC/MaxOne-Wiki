@@ -28,11 +28,6 @@ All MaxOne components are covered under the **TBYD Structural License v2.2**, wi
 
 ---
 
-## 🔗 Related Repositories
-
-- [MaxOneCloud-License](https://github.com/TBYD-SAC/MaxOneCloud-License)  
-- [MaxCoder-Blueprint](https://github.com/TBYD-SAC/MaxCoder-Blueprint) *(coming soon)*
-
 ---
 
 _Take Back Your Data – Empowering users through transparent and secure systems._
