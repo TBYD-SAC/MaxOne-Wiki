@@ -1,4 +1,4 @@
-# ✅ full-validation.md – Integrity Verification Record (as of May 11, 2025)
+# ✅ full-validation.md – Integrity Verification Record (as of June 14, 2025)
 
 This document certifies the structural integrity of all published TBYD systems released under the TBYD Structural License v2.2. All listed versions are verifiable via SHA-256 hash and IPFS CID.
 
@@ -24,6 +24,8 @@ This document certifies the structural integrity of all published TBYD systems r
 | MaxProcess        | v1.0    | `6a04056566c0463f7c8b9cd48c6da483bc6c3266fafd6126d2e4854366d2ad17` | `bafybeiay4irurfajtit4uqtxzuidtfmfpa67...`  |
 | MaxJudical        | v1.0    | `18c7fe989dbd0d946d7ef81d3493440045abb3012ea131188bc4a68c3ebd8f83` | `bafybeietkj75rr676slafbxizehnjnqzcb2...`   |
 | MaxUXSuite        | v1.0    | `3be7019dbe72ff4c09915be06714bdfa4d784028464d68c81eb2610f0f851167` | `bafybeifoxz2wzq6go5yaxwkn425ijztgdjqe...`  |
+| MaxCoder          | v1.6    | `c1a135186fa6ff52c41f0d703189ef10d18608e4fe7a1a7a97fd7e7f6e5f70aa` | `bafybeidshn3zqwvnrvztvq25ze4g7sqe7e7z5nkvq5qnxso5kqg6i5jq2m` |
+| MaxComposer       | v1.5    | `0e5899ad32791f9e8d35073393f4eb1a9278275d10f3466b0ccfc37756bc77c5` | `bafybeiaa4it3ljqggowgim6mkblq3qrfvczqbf2rq4myt3fr7nmsdyozxe` |
 
 ---
 
@@ -43,12 +45,12 @@ This file serves as:
 
 ## 🧾 Issuer Details
 
-**Issued:** May 11, 2025 – 19:15 CET  
+**Issued:** June 14, 2025 – 19:45 CET  
 **Signer:** Take Back Your Data (TBYD)  
 **License Contact:** license@take-back-your-data.com  
 **Verification Gateway:** `ipfs://bafybeibhfmggzyesjmewn6pkut...`
 
 ---
 
-_Last reviewed: 2025-05-11_  
+_Last reviewed: June 14, 2025_  
 _Take Back Your Data – Integrity without dependency._
