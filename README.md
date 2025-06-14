@@ -14,8 +14,7 @@ It covers all structurally licensed system components under the TBYD Structural 
 As of June 2025, the licensed MaxOne suite includes:
 
 - Core Infrastructure: `MaxOneOpen`, `MaxOneCloud`
-- Functional Layers: `MaxAudit`, `MaxReg`, `MaxDeploy`, `MaxBridge`, `MaxTune-SD`, `SDG`, `MaxSuite`, `MaxProcess`, `MaxTreaty`, `MaxGouvernance`, `MaxWorkRoles`, `MaxJudical`, `MaxUXSuite`
-- New Strategic Subsystems: `MaxCoder v1.6`, `MaxComposer v1.5`
+- Functional Layers: `MaxCoder`, `MaxComposer`, `MaxAudit`, `MaxReg`, `MaxDeploy`, `MaxBridge`, `MaxTune-SD`, `SDG`, `MaxSuite`, `MaxProcess`, `MaxTreaty`, `MaxGouvernance`, `MaxWorkRoles`, `MaxJudical`, `MaxUXSuite`
 
 All components are verifiably hashed, IPFS-published, and protected under structural licensing.
 
@@ -35,7 +34,7 @@ All components are verifiably hashed, IPFS-published, and protected under struct
 
 ## 🔗 Related Repositories
 
-- [MaxOneCloud-License](https://github.com/TBYD-SAC/MaxOneCloud-License)
+- [MaxOneCloud-License](https://github.com/TBYD-SAC/MaxOneCloud-License)  
 - [MaxCoder-Blueprint](https://github.com/TBYD-SAC/MaxCoder-Blueprint) *(coming soon)*
 
 ---
@@ -44,7 +43,8 @@ All components are verifiably hashed, IPFS-published, and protected under struct
 
 All MaxOne systems are covered by the **TBYD Structural License v2.2**.  
 Public read-only inspection is always permitted under **Addendum A**.  
-Usage, deployment or derivation is only allowed after structural activation.
+Usage, deployment or derivation is only allowed after structural activation.  
+Each activation requires a one-time structural protection fee as outlined in `LICENSE_CLASSIFICATION.md` and `PAYMENT.md`.
 
 ---
 
@@ -57,5 +57,5 @@ Usage, deployment or derivation is only allowed after structural activation.
 
 ---
 
-_Last reviewed: 2025-06-01_  
+_Last reviewed: 2025-06-14_  
 _Take Back Your Data – Transparent systems, structurally protected._
