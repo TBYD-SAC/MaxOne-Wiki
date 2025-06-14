@@ -1,8 +1,12 @@
-# ✅ HASHES – Valid Structural Versions
+# ✅ HASHES.md – Valid Structural Versions
 
-This file lists the cryptographic hash identifiers for all valid system versions under the TBYD Structural License.
+This file lists the cryptographic hash identifiers for all valid system versions under the TBYD Structural License v2.2.
 
 Only the exact, published versions listed below are licensed for operational use.
+
+---
+
+## 🔐 Structural Hashes – Integrity and Verifiability
 
 | System Name       | Version | SHA-256 Hash                                                       | IPFS CID (Preview)                         |
 |-------------------|---------|---------------------------------------------------------------------|--------------------------------------------|
@@ -22,18 +26,19 @@ Only the exact, published versions listed below are licensed for operational use
 | MaxProcess        | v1.0    | 6a04056566c0463f7c8b9cd48c6da483bc6c3266fafd6126d2e4854366d2ad17    | bafybeiay4irurfajtit4uqtxzuidtfmfpa67...    |
 | MaxJudical        | v1.0    | 18c7fe989dbd0d946d7ef81d3493440045abb3012ea131188bc4a68c3ebd8f83    | bafybeietkj75rr676slafbxizehnjnqzcb2...     |
 | MaxUXSuite        | v1.0    | 3be7019dbe72ff4c09915be06714bdfa4d784028464d68c81eb2610f0f851167    | bafybeifoxz2wzq6go5yaxwkn425ijztgdjqe...    |
+| MaxCoder          | v1.6    | c1a135186fa6ff52c41f0d703189ef10d18608e4fe7a1a7a97fd7e7f6e5f70aa    | bafybeidshn3zqwvnrvztvq25ze4g7sqe7e7z5nkvq5qnxso5kqg6i5jq2m  |
+| MaxComposer       | v1.5    | 0e5899ad32791f9e8d35073393f4eb1a9278275d10f3466b0ccfc37756bc77c5    | bafybeiaa4it3ljqggowgim6mkblq3qrfvczqbf2rq4myt3fr7nmsdyozxe  |
 
 ---
 
-## 🧾 Validation Document
+## 📄 Validation Record
 
-- **CID**: `bafybeibhfmggzyesjmewn6pkut...`
-- **File**: `full-validation.md`
-- **Issued**: May 4, 2025 – 22:48 CET  
+- **Linked File**: [`full-validation.md`](./full-validation.md)  
+- **CID Reference**: `bafybeibhfmggzyesjmewn6pkut...`  
+- **Issued**: June 14, 2025 – 19:45 CET  
 - **Signer**: Take Back Your Data (TBYD)
 
 ---
 
-_Last updated: 2025-05-11_
-
-_Take Back Your Data (TBYD) – Verifiable infrastructure, not contractual dependency._
+_Last reviewed: June 14, 2025_  
+_Take Back Your Data – Verifiable infrastructure, not contractual dependency._
