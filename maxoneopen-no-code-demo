@@ -6,14 +6,14 @@ This demo illustrates how MaxOneOpen executes digital processes **without any co
 
 ## 🔍 What this demo shows
 
-- Rule-based execution without traditional backend logic
-- Role and signature checks enforced via structure, not code
-- Real-time validation of user input against capsule constraints
+- Rule-based execution without traditional backend logic  
+- Role and signature checks enforced via structure, not code  
+- Real-time validation of user input against capsule constraints  
 - Transparent, auditable logic – no blackboxes
 
 ---
 
-## 📄 Capsule Logic
+## 📄 Capsule Logic (Declarative, Not Coded)
 
 ```json
 {
