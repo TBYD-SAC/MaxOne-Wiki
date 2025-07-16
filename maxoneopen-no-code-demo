@@ -1,0 +1,27 @@
+# MaxOneOpen – No-Code Rule Execution Demo
+
+This demo illustrates how MaxOneOpen executes digital processes **without any code**, using only **declarative capsules**.
+
+---
+
+## 🔍 What this demo shows
+
+- Rule-based execution without traditional backend logic
+- Role and signature checks enforced via structure, not code
+- Real-time validation of user input against capsule constraints
+- Transparent, auditable logic – no blackboxes
+
+---
+
+## 📄 Capsule Logic
+
+```json
+{
+  "id": "SubmitForm",
+  "role": "Admin",
+  "rules": [
+    { "type": "signature", "requiredKey": "ControllerKey" },
+    { "type": "field", "name": "status", "equals": "ready" }
+  ],
+  "reaction": ["store", "notify"]
+}
