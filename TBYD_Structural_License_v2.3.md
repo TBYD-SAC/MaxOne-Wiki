@@ -34,14 +34,14 @@ The following systems are covered under this license:
 - MaxUXSuite  
 - MaxCoder  
 - MaxComposer  
-- **MaxReflect v1.0**  
-- **MaxFuse_v1.0_final**  
-- **MaxProof v1.0**  
-- **MaxParse_v1.6_final**  
-- **MaxPlot v1.0**  
-- **MaxMind v1.0**  
-- **MaxAct v1.0**  
-- **MaxMap_v1.0**  
+- **MaxReflect**  
+- **MaxFuse**  
+- **MaxProof**  
+- **MaxParse**  
+- **MaxPlot**  
+- **MaxMind**  
+- **MaxAct**  
+- **MaxMap**  
 - **MaxSense**
 
 Each system’s version, SHA3-512 hash, and IPFS CID are listed in the [HASHES.md](./HASHES.md) and [CID_OVERVIEW.md](./CID_OVERVIEW.md) files.
@@ -67,13 +67,13 @@ Each system’s version, SHA3-512 hash, and IPFS CID are listed in the [HASHES.m
    This fee is:
    - Not a purchase or contract  
    - Not a commercial exchange  
-   - Legally framed as a voluntary, verifiable act of declared responsibility
+   - Legally framed as a voluntary, verifiable act of declared responsibility  
 
    It primarily protects:
    - the **structural integrity of the published architecture**  
-   - the **legal and operational exposure of the activating operator**
+   - the **legal and operational exposure of the activating operator**  
 
-   Fee levels are determined by license class and publicly documented.
+   Fee levels are determined by license class and publicly documented in [PAYMENT.md](./PAYMENT.md).
 
 6. **Treaty Capsule Compatibility:**  
    Certain systems support treaty-based capsule logic (e.g. MaxTreaty, MaxReflect, MaxSense).  
@@ -88,21 +88,22 @@ All TBYD systems include verifiable proof of origin and integrity:
 
 - Each release includes a **SHA3-512 structural hash**  
 - CID-based retrieval via **IPFS/Filebase**  
-- Refer to [full-validation.md](./full-validation.md) for the integrity mapping and structural compliance proof
+- Refer to [full-validation.md](./full-validation.md) for integrity mapping and compliance evidence
 
 > 🔎 _Note on legacy systems:_  
 > Systems released before July 2025 may have been validated using SHA-256.  
-> These remain verifiable and are included in the `HASHES.md` for reference.  
-> Starting with version 2.4, all structural validations will require SHA3-512 for full compliance.
+> These remain verifiable and are included in `HASHES.md`.  
+> Starting with version 2.4, SHA3-512 will be mandatory for all system validations.
 
 ---
 
 ## 📄 Related Documents
 
-- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md) – Lists all license classes (A–D) and their rights, duties, and protection fees  
+- [LICENSE_CLASSIFICATION.md](./LICENSE_CLASSIFICATION.md) – Lists all license classes (A–D) with rights, duties, and protection fees  
 - [LICENSE-Addendum-A.md](./LICENSE-Addendum-A.md) – Terms for preview-only and audit-based access  
-- [PAYMENT.md](./PAYMENT.md) – Details the ETH-based activation process  
-- [CID_OVERVIEW.md](./CID_OVERVIEW.md) – Lists all system and license CIDs with time-stamped release integrity
+- [PAYMENT.md](./PAYMENT.md) – ETH-based activation process  
+- [CID_OVERVIEW.md](./CID_OVERVIEW.md) – CIDs and timestamps for structural references  
+- [full-validation.md](./full-validation.md) – Structural validation and release chain documentation
 
 ---
 
@@ -111,10 +112,10 @@ All TBYD systems include verifiable proof of origin and integrity:
 TBYD provides all systems "as-is" with no warranty or service commitment.  
 This license does not constitute a contract in any jurisdiction.  
 All liability lies with the activating entity upon structural use.  
-The architecture is **auditable, verifiably hashed**, and **cryptographically traceable by design**.
+The architecture is **auditable**, **verifiably hashed**, and **cryptographically traceable by design**.
 
 ---
 
 _Last reviewed: July 27, 2025_  
-_Updated to reflect SHA3-512 signature model, CID-based license referencing, and the inclusion of nine additional subsystems._  
+_Updated to reflect SHA3-512 standardization, CID-based references, and inclusion of new system components._  
 _Take Back Your Data – Systems by design, responsibility by intent._
